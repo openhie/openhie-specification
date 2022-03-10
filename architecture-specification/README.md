@@ -1,0 +1,3 @@
+# Architecture Specification
+
+The OpenHIE Architecture is intended to represent a pattern for key architectural components in a health information exchange. The diagram is a high-level conceptual diagram, or logical overview of the OpenHIE architecture that is intended to be notional. This diagram represents the consensus of the OpenHIE [Architecture Review Board](https://wiki.ohie.org/display/documents/Architecture+Review+Board+Members%2C+Responsibilities+and+Deliverables) as determined through the [Architecture Governance and Principles](https://wiki.ohie.org/display/documents/Architecture+Governance+and+Principles). It is expected that implementations based upon OpenHIE may have more precise lower-level conceptual diagrams and/or physical diagrams.
