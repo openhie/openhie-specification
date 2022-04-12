@@ -1,5 +1,14 @@
 # Change Log and Versioning
 
+## Versioning Process
+
+1. Community approved changes are added in the DEV branch
+2. Dev branch updates are reviewed by the ARB.
+3. ARB approved changes are added to the Staging branch
+4. All updates in the staging are released as a new version of the specification
+
+
+
 ## Version 4.0 (September 2021 - This content)
 
 The following are an overview of the significant content changes that have been made.
