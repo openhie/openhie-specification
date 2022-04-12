@@ -61,5 +61,7 @@
     * [HFW-001: Enroll Beneficiary](openhie-finance-and-insurance-services-workflows/hfw-001-enroll-beneficiary.md)
     * [HFW-002: Query Beneficiary](introduction/openhie-finance-and-insurance-services-workflows/hfw-002-query-beneficiary.md)
     * [HFW-003: Check Coverage Eligibility](introduction/openhie-finance-and-insurance-services-workflows/hfw-003-check-coverage-eligibility.md)
+    * [HFW-004: Claiming](introduction/openhie-finance-and-insurance-services-workflows/hfw-004-claiming.md)
+    * [HFW-005: Claim Tracking](introduction/openhie-finance-and-insurance-services-workflows/hfw-005-claim-tracking.md)
 * [Make the Specification Better](how-to-provde-input.md)
 * [Change Log and Versioning](change-log-and-versioning.md)
