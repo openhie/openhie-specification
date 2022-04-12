@@ -59,5 +59,6 @@
     * [Retrieve Health Certificate](introduction/case-reporting-new-section-needs-to-go-in-alpha-order/request-vaccine-status.md)
   * [OpenHIE Finance and Insurance Services Workflows](openhie-finance-and-insurance-services-workflows/README.md)
     * [HFW-001: Enroll Beneficiary](openhie-finance-and-insurance-services-workflows/hfw-001-enroll-beneficiary.md)
+    * [HFW-002: Query Beneficiary](introduction/openhie-finance-and-insurance-services-workflows/hfw-002-query-beneficiary.md)
 * [Make the Specification Better](how-to-provde-input.md)
 * [Change Log and Versioning](change-log-and-versioning.md)

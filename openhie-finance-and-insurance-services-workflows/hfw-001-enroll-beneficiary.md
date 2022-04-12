@@ -17,7 +17,9 @@ Example Use Cases&#x20;
 
 ![](https://lh6.googleusercontent.com/fmajevYyrLOg-YJWI1vo1Hn7pHPIlom2LF1XUT30k81oRIEGaMie2MgtCslYA-K5EABKWrqq4Xo7fxy8Ke-ibowp63Ti9YD-ZlC62l5CIpoCRcJR03yHxoL-AP1-uXSogNTYbQ8M)
 
-Source code (link to permanent text in https://www.websequencediagrams.com/)&#x20;
+#### Source code&#x20;
+
+(link to permanent text in [https://www.websequencediagrams.com/](https://www.websequencediagrams.com))&#x20;
 
 ```
 title HFW-001: Enroll beneficiary
