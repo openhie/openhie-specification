@@ -46,12 +46,12 @@ IOL->PoS: [6] Forward Beneficiary Details response
 
 ### Technical Details
 
-| Ref | Interaction                              | Endpoint | Data         | Transaction Spec                                                     |
-| --- | ---------------------------------------- | -------- | ------------ | -------------------------------------------------------------------- |
-| 1   | Fetch / Register patient                 | CR       |              | (CRWF-1,3,4)                                                         |
-| 2   | Submit Patient/Beneficiary Query         | IOL      |              |                                                                      |
-| 3   | Forward Query details                    | FIS      | FHIR Patient | [http://hl7.org/fhir/patient.html](http://hl7.org/fhir/patient.html) |
-| 4   | Process query                            | internal |              |                                                                      |
-| 5   | Return Beneficiary Details response      | IOL      | FHIR Patient | [http://hl7.org/fhir/patient.html](http://hl7.org/fhir/patient.html) |
-| 6   | **Forward Ben**eficiary Details response | POS      |              |                                                                      |
+| Ref | Interaction                          | Endpoint | Data         | Transaction Spec                                                     |
+| --- | ------------------------------------ | -------- | ------------ | -------------------------------------------------------------------- |
+| 1   | Fetch / Register patient             | CR       |              | (CRWF-1,3,4)                                                         |
+| 2   | Submit Patient/Beneficiary Query     | IOL      |              |                                                                      |
+| 3   | Forward Query details                | FIS      | FHIR Patient | [http://hl7.org/fhir/patient.html](http://hl7.org/fhir/patient.html) |
+| 4   | Process query                        | internal |              |                                                                      |
+| 5   | Return Beneficiary Details response  | IOL      | FHIR Patient | [http://hl7.org/fhir/patient.html](http://hl7.org/fhir/patient.html) |
+| 6   | Forward Beneficiary Details response | POS      |              |                                                                      |
 
