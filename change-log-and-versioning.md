@@ -13,13 +13,13 @@
 
 ### Additions
 
-Added versioning process
+* Synced Gitbook with Github to manage branches and versioning
+* Added versioning process
 
 ### Updates&#x20;
 
-Updated [export-aggregate-data.md](introduction/aggregate-reporting-workflows/export-aggregate-data.md "mention") to include mADX and provide more flexibility in the sending and receiving systems. &#x20;
-
-Made sure links in the specification are functional.
+* Updated [export-aggregate-data.md](introduction/aggregate-reporting-workflows/export-aggregate-data.md "mention") to include mADX and provide more flexibility in the sending and receiving systems. &#x20;
+* Updated [create-patient-demographic-record-workflow-1.md](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow-1.md "mention") links to be functional and current.
 
 ### How to Reference This Version
 
