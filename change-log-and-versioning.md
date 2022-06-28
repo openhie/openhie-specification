@@ -1,6 +1,6 @@
 # Change Log and Versioning
 
-## Version X.X (July 2022 - This content)
+## Version 5.0 (July 2022 - This content)
 
 ### Additions
 
