@@ -8,6 +8,8 @@
 
 Updated [export-aggregate-data.md](introduction/aggregate-reporting-workflows/export-aggregate-data.md "mention") to include mADX and provide more flexibility in the sending and receiving systems. &#x20;
 
+Made sure links in the specification are functional.
+
 ### How to Reference This Version
 
 This is the 5.0 version of the specification.  To reference it, include the link ([https://guides.ohie.org/arch-spec/](https://guides.ohie.org/arch-spec/)) and state the version number. &#x20;
