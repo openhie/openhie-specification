@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Versioning Process
 
 1. Community approved changes are added in the DEV branch
@@ -13,6 +15,7 @@
 
 ### Additions
 
+* Added a new workflows section [openhie-finance-and-insurance-services-workflows](introduction/openhie-finance-and-insurance-services-workflows/ "mention")
 * Synced Gitbook with Github to manage branches and versioning
 * Added versioning process
 
