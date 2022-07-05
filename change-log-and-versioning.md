@@ -11,7 +11,17 @@
 3. ARB approved changes are added to the Staging branch
 4. All updates in the staging are released as a new version of the specification
 
-## Version 5.0 (July 2022 - This content)
+## Version Staging (July 2022 - This content)
+
+### Additions
+
+### Updates&#x20;
+
+### How to Reference This Version
+
+This is the Staging version of the specification.  To reference it, include the link ([https://guides.ohie.org/arch-spec/](https://guides.ohie.org/arch-spec/)) and state the version number. &#x20;
+
+## Version 5.0 (July 2022)
 
 ### Additions
 
