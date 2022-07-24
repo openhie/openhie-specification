@@ -11,6 +11,14 @@
 3. ARB approved changes are added to the Staging branch
 4. All updates in the staging are released as a new version of the specification
 
+## Version 5.0-es (July 2022-Current)
+
+### Additions -&#x20;
+
+* Traducción al español dentro del proyecto PerMondo para la traducción gratuita de páginas web y documentos para ONG y asociaciones sin ánimo de lucro. Proyecto dirigido por Mondo Agit. Traductora: **Silvia Alejandra Vázquez García.** Revisora: **María Cepeda**.&#x20;
+
+
+
 ## Version 5.0 (July 2022)
 
 ### Additions
