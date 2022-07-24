@@ -1,27 +1,29 @@
 ---
-description: Guiding principles that inform the OpenHIE decision-making process.
+description: >-
+  Se denomina así a los principios fundamentales que informan del proceso de
+  toma de decisiones de OpenHIE.
 ---
 
-# Architectural Principles
+# Principios arquitectónicos
 
-## **Standards-Based**&#x20;
+## **Basado en estándares**
 
 \
-OpenHIE preferentially seeks to leverage consensus-based, international interoperability specifications that support countries' health information exchange needs. We are committed to engaging in the IHE interoperability specification development process. To the extent possible we will leverage the IHE process to identify, evaluate and implement pre-existing IHE specifications and will also advocate for the development of future solutions.\
+OpenHIE busca preferentemente aprovechar las especificaciones de interoperabilidad internacional basadas en el consenso que respaldan las necesidades de intercambio de información sanitaria entre países. Estamos comprometidos a participar en el proceso de desarrollo de especificaciones de interoperabilidad de HIE. En la medida de lo posible, aprovecharemos el proceso de HIE para identificar, evaluar e implementar especificaciones de HIE preexistentes y también abogaremos por el desarrollo de soluciones futuras.\
 
 
 ## **Adaptable /  Implementable**
 
-Because health information exchange functional requirements vary among countries and evolve over time, we recognize that existing standards and interoperability specifications may not fully support a country's HIE needs. Consequently, OpenHIE seeks an architecture that supports -- does not on necessarily constrain -- effective implementation of country-driven workflows that extend beyond current interoperability specifications. To the extent possible, we anticipate that such workflow extensions would be incorporated into future consensus-based standardized interoperability specifications. (It has alternatively been suggested we call this principle "user driven". We seek to make architectural decisions based on implementations expressed needs and choose standards that best support the HIE user's needs.)
+Debido a que los requisitos funcionales de intercambio de información sobre la salud varían entre países y evolucionan con el tiempo, reconocemos que los estándares existentes y las especificaciones de interoperabilidad pueden no satisfacer completamente las necesidades de HIE de un país. En consecuencia, OpenHIE busca una arquitectura que admita -- no necesariamente limitando -- la implementación efectiva de flujos de trabajo impulsados por países que se extiendan más allá de las especificaciones de interoperabilidad actuales. En la medida de lo posible, anticipamos que tales extensiones de flujo de trabajo se incorporarían en futuras especificaciones de interoperabilidad estandarizadas basadas en consenso. (Alternativamente, se ha sugerido que llamemos a este principio "impulsado por el usuario". Buscamos tomar decisiones arquitectónicas basadas en las necesidades expresadas durante las implementaciones y elegir los estándares que mejor respalden las necesidades del usuario de HIE).
 
-## **Interchangeability / Swappable**
+## **Intercambiable / Compatible**
 
-OpenHIE seeks to support a robust and diverse software component ecosystem where implementing and support organizations may leverage different software products for the OpenHIE components. To enable effective and efficient "swap-ability" of components, we seek an architecture that clearly defines and reinforces standardized interfaces for each of these components. We seek to ensure that the reference components of OpenHIE support standardized interfaces.
+OpenHIE busca respaldar un ecosistema de componentes de software robusto y diverso en el que las organizaciones que implementan y dan soporte puedan aprovechar diferentes productos de software para los componentes de OpenHIE. Para permitir una " "intercambiabilidad" eficaz y eficiente de los componentes, buscamos una arquitectura que defina y refuerce claramente las interfaces estandarizadas para cada uno de estos componentes. Buscamos asegurarnos de que los componentes de referencia de OpenHIE admitan interfaces estandarizadas.
 
-## **Additional Principles**&#x20;
+## **Principios adicionales**&#x20;
 
-The following additional principles have been suggested:  Performant / Scalable;  "Monitor-able" / "Surveil-able" / "Inspect-able" / Observable / "Audit-able" have been suggested.
+e han sugerido los siguientes principios adicionales: eficiente/escalable. Se han sugerido "supervisable" / "monitoreable" / "inspeccionable" / observable / "auditable".
 
 {% hint style="success" %}
-References:  [Principles for Digital Development](https://digitalprinciples.org/)
+Referencias: [Principios para el Desarrollo Digital](https://digitalprinciples.org/)
 {% endhint %}

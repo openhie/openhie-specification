@@ -2,10 +2,10 @@
 
 * [Specification Overview](README.md)
 * [How to use the Specification](get-started.md)
-* [Architecture Specification](architecture-specification/README.md)
+* [Especificación de la arquitectura](architecture-specification/README.md)
   * [Arquitectura](architecture-specification/overview-of-the-architecture.md)
-  * [Architectural Principles](architecture-specification/architectural-principles.md)
-  * [Standards and Profiles](architecture-specification/standards-and-profiles.md)
+  * [Principios arquitectónicos](architecture-specification/architectural-principles.md)
+  * [Estándares y Perfiles](architecture-specification/standards-and-profiles.md)
 * [OpenHIE Component Specifications](openhie-component-specifications-1/README.md)
   * [Non-Functional Requirements](openhie-component-specifications-1/non-functional-requirements.md)
   * [Client Registry (CR)](openhie-component-specifications-1/client-registry.md)
