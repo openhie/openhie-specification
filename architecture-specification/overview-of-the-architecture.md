@@ -13,6 +13,12 @@ Un Intercambio de Información Sanitaria (HIE), la infraestructura compartida en
 
 Esta separación de cuestiones apoya la calidad, la seguridad y la continuidad de la atención, y facilita el uso adecuado de la información necesaria para la salud de la población y el cálculo de métricas.Diagrama de la arquitectura de OpenHIE​
 
+
+
+## Diagrama de arquitectura OpenHIE
+
+<figure><img src="https://lh3.googleusercontent.com/khEPGMvObLh9YEZ26N4k6_ahTJ6VSkkOzOEfRkPMV8v9QvE2wR0fI44-fpjTglpig8hplLr9dfFZ5r6ZQQC-cKxBVV2c1W_U4YQZ_yY21_jWfkbSiJP03B97l-0L8aAb9Uv_gXBI52toGkLzGXjjhF3PU92GcSGloIMCF5tn9AgUuyqlTNIig_NBA1sJ0dfHbHem1Q" alt=""><figcaption></figcaption></figure>
+
 ### Descripciones de los componentes de la arquitectura <a href="#descripciones-de-los-componentes-de-la-arquitectura" id="descripciones-de-los-componentes-de-la-arquitectura"></a>
 
 #### Servicios de dominio empresarial <a href="#servicios-de-dominio-empresarial" id="servicios-de-dominio-empresarial"></a>
