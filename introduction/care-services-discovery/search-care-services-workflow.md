@@ -1,21 +1,25 @@
-# Search Care Services Workflow
+# Flujo de trabajo de la búsqueda de servicios de atención
 
-Workflow for a point of service application to query a Care Services registry for health workers, facilities, organizations, and/or the services provided by each.
+## El flujo de trabajo para una aplicación de punto de servicio para consultar el registro de servicios de atención para trabajadores de la salud, instalaciones, organizaciones o los servicios proporcionados por cada uno.
 
-| Standards\*                   | **Mobile Care Services Discovery (mCSD): ftp://ftp.ihe.net/DocumentPublication/CurrentPublished/ITInfrastructure/IHE\_ITI\_Suppl\_mCSD.pdf**                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Assumptions and Prerequisites | <p></p><p>A Care Services Registry shall have one or more of the following resources:</p><ul><li>Location</li><li>Practitioner and PractitionerRole</li><li>Organization</li><li>HealthcareService</li></ul> |
-| Actors                        | <p></p><ul><li>PoS = Point of Service Application, mCSD Care Services Selective Consumer</li><li>ILR InfoMan = Interlinked Registry, mCSD Care Services Selective Supplier</li></ul>                         |
+El flujo de trabajo para una aplicación de punto de servicio para consultar el registro de servicios de atención para trabajadores de la salud, instalaciones, organizaciones o los servicios proporcionados por cada uno.
 
-## **Interaction Description**&#x20;
+| <p> </p><p> </p><p>Estándares*</p>                                                | **Descubrir servicios de atención móviles (mCSD): ftp:// ftp.ihe.net/DocumentPublication/CurrentPu blished/lTlnfrastructure/ IHE\_ITI\_Suppl\_mCSD.pdf**                                                                                                    |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>Supuestos y prerrequisitos</p> | <p> </p><p> </p><p>Un registro de servicios de atención deberá contar con uno o más de los siguientes recursos:</p><p> </p><p>•     Ubicación</p><p>•     Profesión y rol profesional</p><p>•     Organización</p><p>•     Servicios de atención médica</p> |
+| <p> </p><p> </p><p> </p><p> </p><p>Actores</p>                                    | <p> </p><p> </p><p>•     Aplicación de punto de servicio (PoS), consumidor selectivo de servicios de atención de mCSD</p><p>•     ILR lnfoMan: Registros Interconectados, Servicios de atención selectivos del proveedor de mCSD</p>                        |
 
-The following is a description of the interaction steps.
+## Descripción de la interacción
+
+La siguiente es una descripción de los pasos de la interacción.
 
 ![](https://lh3.googleusercontent.com/02eui3Y7oh1OzSYl2zzilg7gZfX8pEfJfvw2tNmvrFZg3TRmzjGsJmSFx5y3xqzRRamwKxJOoM2Z36SBgEmwy1fQ3yc-BAsevaBPw5ppor75EZIjDHTPQhQ3FTXwoKfkPQ)
 
-| **#** | **Interaction**                   | **Data / Notes**                                                                                        | **Transaction Options**               |
-| ----- | --------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1     | Search for matching care services | HTTP GET Request with optional query parameters.  Can be for any supported resources.                   | \[ITI-90] Find Matching Care Services |
-| 2     | Return matching care services     | HTTP response with FHIR Bundle of matching resources or an error if an invalid request or server error. | \[ITI-90] Find Matching Care Services |
+
+
+| N.º                              | **Interacción**                                                                | **Datos/notas**                                                                                                            | **Opciones de transacciones**                                                   |
+| -------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <p> </p><p> </p><p> </p><p>1</p> | <p> </p><p> </p><p>[ITI-90] Búsqueda de servicios de atención coincidentes</p> | Solicitud HTTP GET con parámetros de consulta opcionales. Puede ser para cualquier recurso que admite.                     | <p> </p><p> </p><p>[ITI-90] Solicitud de servicios de atención coincidentes</p> |
+| <p> </p><p> </p><p> </p><p>2</p> | <p> </p><p> </p><p>Devolver servicios de atención coincidentes</p>             | Respuesta HTTP con paquete FHIR de recursos coincidentes o un error si una solicitud no es válida o un error del servidor. | <p> </p><p> </p><p>[ITI-90] Solicitud de servicios de atención coincidentes</p> |
 
 ## ****
