@@ -1,9 +1,10 @@
-# Aggregate Reporting Workflows
+# Flujos de trabajo de informes agregados
 
-This collection of workflows is designed to support aggregate data exchange of health indicators. To fully support this capability, metadata describing the indicators also needs to be translated or exchanged. &#x20;
+Esta recopilación de flujos de trabajo está diseñada para apoyar el intercambio de datos agregados de los indicadores de salud. Para respaldar completamente esta capacidad, los metadatos que describen los indicadores también deben traducirse o intercambiarse.
 
-The workflows in this collection are designed to support the following types of data exchanges:
+Los flujos de trabajo de esta recopilación están diseñados para admitir los siguientes tipos de intercambios de datos:
 
-1. Sending an aggregate data message from an HIE or another application.
-2. An HIE receiving an aggregate data message.
+1\.   Envío de un mensaje de datos agregados desde un HIE u otra aplicación.
+
+2\.   Un HIE que recibe un mensaje de datos agregados.
 

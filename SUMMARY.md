@@ -20,7 +20,7 @@
   * [OpenHIE Terminology Service (TS)](openhie-component-specifications-1/openhie-terminology-service-ts.md)
   * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
 * [Especificaciones del flujo de trabajo (intercambio)](introduction/README.md)
-  * [Aggregate Reporting Workflows](introduction/aggregate-reporting-workflows/README.md)
+  * [Flujos de trabajo de informes agregados](introduction/aggregate-reporting-workflows/README.md)
     * [Export Aggregate Data](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
     * [Validate and Save Aggregate Data](introduction/aggregate-reporting-workflows/validate-and-save-aggregate-data.md)
   * [Alerting / Sending Reminders or Information](introduction/alerting-sending-reminders-or-information/README.md)
