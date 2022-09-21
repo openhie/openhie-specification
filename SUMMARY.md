@@ -23,7 +23,7 @@
   * [Flujos de trabajo de informes agregados](introduction/aggregate-reporting-workflows/README.md)
     * [Exportar datos agregados](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
     * [Validar y guardar datos agregados](introduction/aggregate-reporting-workflows/validate-and-save-aggregate-data.md)
-  * [Alerting / Sending Reminders or Information](introduction/alerting-sending-reminders-or-information/README.md)
+  * [Alertar/enviar recordatorios o información](introduction/alerting-sending-reminders-or-information/README.md)
     * [Send Client Alert Workflow](introduction/alerting-sending-reminders-or-information/send-client-alert-workflow.md)
     * [Send Health Worker Alert Workflow](introduction/alerting-sending-reminders-or-information/send-health-worker-alert-workflow.md)
   * [Care Services Discovery](introduction/care-services-discovery/README.md)
