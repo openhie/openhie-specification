@@ -30,7 +30,7 @@
     * [Flujo de trabajo de consulta de registros de trabajadores de la salud o de instalaciones](introduction/care-services-discovery/query-health-worker-and-or-facility-records-workflow.md)
     * [Consulta de flujo de trabajo de registros de servicios de atención](introduction/care-services-discovery/query-care-services-records-workflow.md)
     * [Flujo de trabajo de la búsqueda de servicios de atención](introduction/care-services-discovery/search-care-services-workflow.md)
-    * [Request Care Services Updates Workflow](introduction/care-services-discovery/request-care-services-updates-workflow.md)
+    * [Flujo de trabajo para la solicitud de actualizaciones de servicios de atención](introduction/care-services-discovery/request-care-services-updates-workflow.md)
   * [Laboratory Work Flows](introduction/laboratory-work-flows/README.md)
     * [Order Laboratory Test](introduction/laboratory-work-flows/order-laboratory-test.md)
     * [Report Lab Results](introduction/laboratory-work-flows/report-lab-results.md)
