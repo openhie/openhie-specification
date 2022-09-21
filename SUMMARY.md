@@ -25,7 +25,7 @@
     * [Validar y guardar datos agregados](introduction/aggregate-reporting-workflows/validate-and-save-aggregate-data.md)
   * [Alertar/enviar recordatorios o información](introduction/alerting-sending-reminders-or-information/README.md)
     * [Flujo de trabajo de envío de alertas a los clientes](introduction/alerting-sending-reminders-or-information/send-client-alert-workflow.md)
-    * [Send Health Worker Alert Workflow](introduction/alerting-sending-reminders-or-information/send-health-worker-alert-workflow.md)
+    * [Enviar flujo de trabajo de alerta al trabajador de la salud](introduction/alerting-sending-reminders-or-information/send-health-worker-alert-workflow.md)
   * [Care Services Discovery](introduction/care-services-discovery/README.md)
     * [Query Health Worker and/or Facility Records Workflow](introduction/care-services-discovery/query-health-worker-and-or-facility-records-workflow.md)
     * [Query Care Services Records Workflow](introduction/care-services-discovery/query-care-services-records-workflow.md)
