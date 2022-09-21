@@ -1,13 +1,9 @@
-# Flujos de trabajo de gestión de la identidad del paciente
+# Patient Identity Management Workflows
 
-El Registro de Clientes está diseñado para ayudar a identificar de manera única a las personas que reciben servicios de atención médica en la región geográfica o los casos de uso respaldados por HIE.
+The Client Registry is designed to assist in uniquely identifying individuals who receive healthcare services in the geographic region and/or use cases supported HIE.
 
-Los flujos de trabajo están diseñados para admitir los siguientes tipos de intercambios de datos:
+The workflows are designed to support the following types of data exchanges:
 
-* Los sistemas de punto de servicio (PoS), como los EMR u otras fuentes de identidad del paciente, pueden agregar o actualizar la información demográfica de un paciente en el registro de clientes.
-* Un punto de servicio (PoS) u otro sistema que esté autorizado para acceder al HIE puede consultar el registro de clientes para obtener la identificación única o la información demográfica del paciente.
-*   Para obtener más información sobre implementaciones ejemplares, comuníquese con la comunidad de registro de clientes.
-
-
-
-&#x20;
+* A Point-of-Service (PoS) systems such as EMRs or other patient identity sources can add or update a patient's demographics information in the Client Registry.
+* A Point-of-Service (PoS) or other system that is authorized to access the HIE can query the Client Registry for the patient's unique id or demographic information.
+* For more information on exemplary implementations, please contact the Client Registry Community.
