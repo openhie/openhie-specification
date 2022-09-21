@@ -34,7 +34,7 @@
   * [Flujos de trabajo del laboratorio](introduction/laboratory-work-flows/README.md)
     * [Solicitar prueba de laboratorio](introduction/laboratory-work-flows/order-laboratory-test.md)
     * [Resultados del laboratorio informados](introduction/laboratory-work-flows/report-lab-results.md)
-  * [Patient Identity Management Workflows](introduction/patient-identity-management-workflows/README.md)
+  * [Flujos de trabajo de gestión de la identidad del paciente](introduction/patient-identity-management-workflows/README.md)
     * [Create Patient Demographic Record Workflow](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow-1.md)
     * [Update Patient Demographic Record Workflow](introduction/patient-identity-management-workflows/update-patient-demographic-record-workflow.md)
     * [Query Patient Demographic Records by Identifier Workflow](introduction/patient-identity-management-workflows/query-patient-demographic-records-by-identifier-workflow.md)
