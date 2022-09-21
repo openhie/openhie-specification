@@ -19,7 +19,7 @@
   * [OpenHIE Shared Health Record (SHR)](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
   * [OpenHIE Terminology Service (TS)](openhie-component-specifications-1/openhie-terminology-service-ts.md)
   * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
-* [Workflow (Exchange) Specification](introduction/README.md)
+* [Especificaciones del flujo de trabajo (intercambio)](introduction/README.md)
   * [Aggregate Reporting Workflows](introduction/aggregate-reporting-workflows/README.md)
     * [Export Aggregate Data](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
     * [Validate and Save Aggregate Data](introduction/aggregate-reporting-workflows/validate-and-save-aggregate-data.md)
