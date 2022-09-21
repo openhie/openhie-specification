@@ -21,7 +21,7 @@
   * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
 * [Especificaciones del flujo de trabajo (intercambio)](introduction/README.md)
   * [Flujos de trabajo de informes agregados](introduction/aggregate-reporting-workflows/README.md)
-    * [Export Aggregate Data](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
+    * [Exportar datos agregados](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
     * [Validate and Save Aggregate Data](introduction/aggregate-reporting-workflows/validate-and-save-aggregate-data.md)
   * [Alerting / Sending Reminders or Information](introduction/alerting-sending-reminders-or-information/README.md)
     * [Send Client Alert Workflow](introduction/alerting-sending-reminders-or-information/send-client-alert-workflow.md)
