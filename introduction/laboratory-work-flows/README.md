@@ -1,8 +1,8 @@
-# Flujos de trabajo del laboratorio
+# Laboratory Work Flows
 
-Los flujos de trabajo están diseñados para admitir los siguientes tipos de intercambios de datos:
+The workflows are designed to support the following types of data exchanges:
 
-* Los sistemas de Historia Clínica Electrónica (EMR) pueden enviar una orden de laboratorio electrónica a un Sistema de Información de Laboratorio (Laboratory Information System, LIS).
-* Un LIS puede enviar resultados de laboratorio electrónicamente a un EMR
-* Para obtener más información sobre implementaciones ejemplares, comuníquese con LIS COP.
+* Electronic Medical Records (EMR) systems can send an electronic lab order to a laboratory information system (LIS).
+* A LIS can send lab results electronically to an EMR&#x20;
+* For more information on exemplary implementations, please contact the LIS COP.
 
