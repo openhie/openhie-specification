@@ -37,7 +37,7 @@
   * [Flujos de trabajo de gestión de la identidad del paciente](introduction/patient-identity-management-workflows/README.md)
     * [Descripción general del flujo de trabajo de creación de registros demográficos de pacientes](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow-1.md)
     * [Actualizar el flujo de trabajo del registro demográfico del paciente](introduction/patient-identity-management-workflows/update-patient-demographic-record-workflow.md)
-    * [Query Patient Demographic Records by Identifier Workflow](introduction/patient-identity-management-workflows/query-patient-demographic-records-by-identifier-workflow.md)
+    * [Flujo de trabajo de la consulta de registros demográficos de pacientes por datos demográficos](introduction/patient-identity-management-workflows/query-patient-demographic-records-by-identifier-workflow.md)
     * [Query Patient Demographic Records by Demographics Workflow](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow.md)
   * [Shared Health Record](introduction/shared-health-record/README.md)
     * [Save Patient-level Clinical Data Workflow](introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)
