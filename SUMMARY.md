@@ -36,7 +36,7 @@
     * [Resultados del laboratorio informados](introduction/laboratory-work-flows/report-lab-results.md)
   * [Flujos de trabajo de gestión de la identidad del paciente](introduction/patient-identity-management-workflows/README.md)
     * [Descripción general del flujo de trabajo de creación de registros demográficos de pacientes](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow-1.md)
-    * [Update Patient Demographic Record Workflow](introduction/patient-identity-management-workflows/update-patient-demographic-record-workflow.md)
+    * [Actualizar el flujo de trabajo del registro demográfico del paciente](introduction/patient-identity-management-workflows/update-patient-demographic-record-workflow.md)
     * [Query Patient Demographic Records by Identifier Workflow](introduction/patient-identity-management-workflows/query-patient-demographic-records-by-identifier-workflow.md)
     * [Query Patient Demographic Records by Demographics Workflow](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow.md)
   * [Shared Health Record](introduction/shared-health-record/README.md)
