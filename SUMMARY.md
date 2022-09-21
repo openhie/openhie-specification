@@ -33,7 +33,7 @@
     * [Flujo de trabajo para la solicitud de actualizaciones de servicios de atención](introduction/care-services-discovery/request-care-services-updates-workflow.md)
   * [Flujos de trabajo del laboratorio](introduction/laboratory-work-flows/README.md)
     * [Solicitar prueba de laboratorio](introduction/laboratory-work-flows/order-laboratory-test.md)
-    * [Report Lab Results](introduction/laboratory-work-flows/report-lab-results.md)
+    * [Resultados del laboratorio informados](introduction/laboratory-work-flows/report-lab-results.md)
   * [Patient Identity Management Workflows](introduction/patient-identity-management-workflows/README.md)
     * [Create Patient Demographic Record Workflow](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow-1.md)
     * [Update Patient Demographic Record Workflow](introduction/patient-identity-management-workflows/update-patient-demographic-record-workflow.md)
