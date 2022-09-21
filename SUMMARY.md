@@ -26,7 +26,7 @@
   * [Alertar/enviar recordatorios o información](introduction/alerting-sending-reminders-or-information/README.md)
     * [Flujo de trabajo de envío de alertas a los clientes](introduction/alerting-sending-reminders-or-information/send-client-alert-workflow.md)
     * [Enviar flujo de trabajo de alerta al trabajador de la salud](introduction/alerting-sending-reminders-or-information/send-health-worker-alert-workflow.md)
-  * [Care Services Discovery](introduction/care-services-discovery/README.md)
+  * [Descubrir servicios de atención](introduction/care-services-discovery/README.md)
     * [Query Health Worker and/or Facility Records Workflow](introduction/care-services-discovery/query-health-worker-and-or-facility-records-workflow.md)
     * [Query Care Services Records Workflow](introduction/care-services-discovery/query-care-services-records-workflow.md)
     * [Search Care Services Workflow](introduction/care-services-discovery/search-care-services-workflow.md)
