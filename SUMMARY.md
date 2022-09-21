@@ -39,7 +39,7 @@
     * [Actualizar el flujo de trabajo del registro demográfico del paciente](introduction/patient-identity-management-workflows/update-patient-demographic-record-workflow.md)
     * [Flujo de trabajo de la consulta de registros demográficos de pacientes por datos demográficos](introduction/patient-identity-management-workflows/query-patient-demographic-records-by-identifier-workflow.md)
     * [Query Patient Demographic Records by Demographics Workflow](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow.md)
-  * [Shared Health Record](introduction/shared-health-record/README.md)
+  * [Historia Clínica Compartida](introduction/shared-health-record/README.md)
     * [Save Patient-level Clinical Data Workflow](introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)
     * [Query Patient-level Clinical Data Workflow](introduction/shared-health-record/query-patient-level-clinical-data-workflow.md)
   * [Terminology Service Workflows](introduction/terminology-service-workflow/README.md)
