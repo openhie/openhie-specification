@@ -51,7 +51,7 @@
     * [Consulta de los sistemas de códigos](introduction/terminology-service-workflow/query-code-systems.md)
     * [Consulta de mapas conceptuales](introduction/terminology-service-workflow/query-concept-maps.md)
     * [Código de búsqueda](introduction/terminology-service-workflow/lookup-code.md)
-  * [Vaccine Workflows](introduction/vaccine-workflows.md)
+  * [Flujos de trabajo de las vacunas](introduction/vaccine-workflows.md)
   * [OpenHIE Finance and Insurance Services Workflows](introduction/openhie-finance-and-insurance-services-workflows/README.md)
     * [HFW-001: Enroll Beneficiary](introduction/openhie-finance-and-insurance-services-workflows/hfw-001-enroll-beneficiary.md)
     * [HFW-002: Query Beneficiary](introduction/openhie-finance-and-insurance-services-workflows/hfw-002-query-beneficiary.md)

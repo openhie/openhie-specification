@@ -1,11 +1,14 @@
-# Vaccine Workflows
+# Flujos de trabajo de las vacunas
 
-This collection of workflows allows an external system with access to the HIE to save and retrieve vaccine status.  &#x20;
+Esta recopilación de flujos de trabajo permite que un sistema externo con acceso al **HIE** guarde y recupere estados de vacunas.
 
-The workflows are designed to support the following types of data exchanges with systems that have access to the HIE.
+Los flujos de trabajo están diseñados para admitir los siguientes tipos de intercambios de datos con sistemas que acceden al **HIE**:
 
-1. A system can record a vaccine document to the HIE using the [Save Patient-level Clinical Data Workflow](shared-health-record/save-patient-level-clinical-data-workflow.md) transaction. &#x20;
-2. A system can query for a vaccine document from the HIE using the [Query Patient-level Clinical Data Workflow](shared-health-record/query-patient-level-clinical-data-workflow.md) transaction. &#x20;
+1\.   Un sistema puede registrar un documento de vacuna en el **HIE** mediante la transacción Guardar flujo de trabajo de datos clínicos a nivel de paciente.
+
+2\.   **Un** sistema puede consultar un documento de vacuna del **HIE** mediante la transacción Consultar flujo de trabajo de datos clínicos del paciente.
+
+<figure><img src="../.gitbook/assets/vacunasflujos1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 References:
