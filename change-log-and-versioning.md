@@ -23,7 +23,7 @@
 
 ### Additions
 
-* Added a new workflows section [flujos-de-trabajo-de-los-servicios-de-seguros-y-finanzas-de-openhie](introduction/flujos-de-trabajo-de-los-servicios-de-seguros-y-finanzas-de-openhie/ "mention")
+* Added a new workflows section [openhie-finance-and-insurance-services-workflows](introduction/openhie-finance-and-insurance-services-workflows/ "mention")
 * Synced Gitbook with Github to manage branches and versioning
 * Added versioning process
 
