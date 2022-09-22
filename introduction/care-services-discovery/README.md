@@ -1,11 +1,17 @@
-# Care Services Discovery
+# Descubrir servicios de atención
 
-This collection is designed to allow external systems such as point-of-care systems to query for provider, facility, organization and/or healthcare service information.
+Esta recopilación está diseñada para permitir que los sistemas externos, como los sistemas de punto de atención, consulten información sobre proveedores, instalaciones, organizaciones o servicios de atención médica.
 
-The workflows in this collection are designed to support the following types of data exchanges:
+Los flujos de trabajo de esta recopilación están diseñados para admitir los siguientes tipos de intercambios de datos:
 
-1. Query for practitioner information. &#x20;
-2. Query for facility information. &#x20;
-3. Query for organization information.
-4. Query for healthcare service information.
-5. Query for any of the above information that is linked together.
+1\.   Consulta de información de los profesionales.
+
+2\.   Consulta de información de la instalación.
+
+3\.   Consulta de información de la organización.
+
+4\.   Consulta de información de servicios de atención médica.
+
+5\.   Consulta de cualquier información anterior que esté vinculada entre sí.
+
+&#x20;
