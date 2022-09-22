@@ -1,11 +1,14 @@
-# Terminology Service Workflows
+# Flujos de trabajo del servicio de terminología
 
-This collection of workflows is being designed to support terminology service interactions within or external to the HIE.
+Esta colección de flujos de trabajo se está diseñando para respaldar las interacciones del servicio de terminología dentro o fuera del HIE.\
+Los flujos de trabajo están diseñados para admitir los siguientes tipos de intercambios de datos con sistemas que tienen acceso al HIE.
 
-The workflows are designed to support the following types of data exchanges with systems that have access to the HIE.
+1\.   Un sistema puede consultar sistemas de códigos, conjuntos de valores y mapas conceptuales que están presentes en el servicio de terminología de HIE.
 
-1. A system can query for Code Systems, Value Sets, and Concept Maps that are present in the HIE's Terminology Service.
-2. A system can verify (validate) that a code exists in a Code System or Value Set.
-3. A system can lookup (retrieve the details of) a code in a Code System.
-4. A system can query for the members of a Value Set.
-5. A system can query for a translation of a code in one Code System to a code in another (a “mapping”)\
+2\.   Un sistema puede verificar (validar) que existe un código en un sistema de códigos o conjunto de valores.
+
+3\.   Un sistema puede buscar (recuperar los detalles de) un código en un sistema de códigos.
+
+4\.   Un sistema puede consultar los miembros de un conjunto de valores.
+
+5\.   Un sistema puede consultar la traducción de un código en un sistema de códigos de uno a otro (un "mapeo")\
