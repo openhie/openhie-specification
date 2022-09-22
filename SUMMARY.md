@@ -44,7 +44,7 @@
     * [Consultar el flujo de trabajo de datos clínicos del paciente](introduction/shared-health-record/query-patient-level-clinical-data-workflow.md)
   * [Flujos de trabajo del servicio de terminología](introduction/terminology-service-workflow/README.md)
     * [Expandir el conjunto de valores](introduction/terminology-service-workflow/expand-value-set.md)
-    * [Translate Code](introduction/terminology-service-workflow/translate-code.md)
+    * [Traducir el código](introduction/terminology-service-workflow/translate-code.md)
     * [Verify Code Existence](introduction/terminology-service-workflow/verify-code-existence.md)
     * [Verify Code Membership](introduction/terminology-service-workflow/verify-code-membership.md)
     * [Query Value Set](introduction/terminology-service-workflow/query-value-set.md)
