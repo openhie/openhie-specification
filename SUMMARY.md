@@ -46,7 +46,7 @@
     * [Expandir el conjunto de valores](introduction/terminology-service-workflow/expand-value-set.md)
     * [Traducir el código](introduction/terminology-service-workflow/translate-code.md)
     * [Verificación de código existente](introduction/terminology-service-workflow/verify-code-existence.md)
-    * [Verify Code Membership](introduction/terminology-service-workflow/verify-code-membership.md)
+    * [Verificación de la membresía del código](introduction/terminology-service-workflow/verify-code-membership.md)
     * [Query Value Set](introduction/terminology-service-workflow/query-value-set.md)
     * [Query Code Systems](introduction/terminology-service-workflow/query-code-systems.md)
     * [Query Concept Maps](introduction/terminology-service-workflow/query-concept-maps.md)
