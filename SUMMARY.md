@@ -48,7 +48,7 @@
     * [Verificación de código existente](introduction/terminology-service-workflow/verify-code-existence.md)
     * [Verificación de la membresía del código](introduction/terminology-service-workflow/verify-code-membership.md)
     * [Consulta del conjunto de valores](introduction/terminology-service-workflow/query-value-set.md)
-    * [Query Code Systems](introduction/terminology-service-workflow/query-code-systems.md)
+    * [Consulta de los sistemas de códigos](introduction/terminology-service-workflow/query-code-systems.md)
     * [Query Concept Maps](introduction/terminology-service-workflow/query-concept-maps.md)
     * [Lookup Code](introduction/terminology-service-workflow/lookup-code.md)
   * [Vaccine Workflows](introduction/vaccine-workflows.md)
