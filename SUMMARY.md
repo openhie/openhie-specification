@@ -21,7 +21,7 @@
   * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
 * [Spécification du flux de travail (Échange)](specification-du-flux-de-travail-echange/README.md)
   * [Spécification du flux de travail (Échange)](specification-du-flux-de-travail-echange/specification-du-flux-de-travail-echange.md)
-* [Spécification du flux de travail (Échange)](introduction/README.md)
+* [Workflow (Exchange) Specification](introduction/README.md)
   * [Aggregate Reporting Workflows](introduction/aggregate-reporting-workflows/README.md)
     * [Export Aggregate Data](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
     * [Validate and Save Aggregate Data](introduction/aggregate-reporting-workflows/validate-and-save-aggregate-data.md)
