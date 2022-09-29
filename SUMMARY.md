@@ -19,6 +19,8 @@
   * [OpenHIE Shared Health Record (SHR)](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
   * [OpenHIE Terminology Service (TS)](openhie-component-specifications-1/openhie-terminology-service-ts.md)
   * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
+* [Spécification du flux de travail (Échange)](specification-du-flux-de-travail-echange/README.md)
+  * [Spécification du flux de travail (Échange)](specification-du-flux-de-travail-echange/specification-du-flux-de-travail-echange.md)
 * [Spécification du flux de travail (Échange)](introduction/README.md)
   * [Aggregate Reporting Workflows](introduction/aggregate-reporting-workflows/README.md)
     * [Export Aggregate Data](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
