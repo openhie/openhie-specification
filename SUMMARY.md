@@ -58,5 +58,6 @@
     * [HFW-003: Check Coverage Eligibility](introduction/openhie-finance-and-insurance-services-workflows/hfw-003-check-coverage-eligibility.md)
     * [HFW-004: Claiming](introduction/openhie-finance-and-insurance-services-workflows/hfw-004-claiming.md)
     * [HFW-005: Claim Tracking](introduction/openhie-finance-and-insurance-services-workflows/hfw-005-claim-tracking.md)
+  * [French Translation](https://app.gitbook.com/o/-MYyeQVoQF7rp5fqcUe9/s/4GYEZP5VCC4cSbGm4KQH/translation\_french)
 * [How to Provide Feedback and Input](how-to-provde-input.md)
 * [Change Log and Versioning](change-log-and-versioning.md)
