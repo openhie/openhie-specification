@@ -1,17 +1,16 @@
 ---
 description: >-
-  The following are some recommendations on how the OpenHIE Architecture
-  Specification can be used.
+  A continuación, se ofrecen algunas recomendaciones sobre el uso de la
+  especificación de la arquitectura de OpenHIE.
 ---
 
-# How to use the Specification
+# Cómo utilizar la especificación
 
+Usos                                                            recomendados por el usuario
 
+&#x20;
 
-| User                       | Recommended Uses                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Implementation Team        | <ul><li>Use the <a href="openhie-component-specifications-1/">Component Specification</a> to help in determining business requirements needed to support software selection or development</li><li>Use the <a href="introduction/">Workflow Specification</a> to find best practices for data exchange and standards that are recommended </li><li>Contribute additions and changes based upon experience and needs</li></ul>                          |
-| Software Development Teams | <p></p><ul><li>Use the <a href="openhie-component-specifications-1/">Component Specification</a> to help determining business requirements to consider in developing the software</li><li>Use the <a href="introduction/">Workflow Specification</a> to find standards to support </li><li>Contribute additions and changes based upon experience and needs</li></ul>                                                                                  |
-| Ministries of Health       | <ul><li>Reference the <a href="architecture-specification/">OpenHIE Architecture Specification</a> and version number in architecture standards or requirements documents as appropriate</li><li>Use the Architecture Specification, the Component Specification and / or the Workflow Specification in designing project or country architecture as appropriate.  </li><li>Contribute additions and changes based upon experience and needs</li></ul> |
-
-##
+| <p> </p><p> </p><p> </p><p> </p><p> </p><p>Equipo de implementación</p>             | <p> </p><p>·     Utilizar la especificación de componentes para ayudar a determinar los requisitos empresariales necesarios para apoyar la selección o el desarrollo de software.</p><p>·     Utilizar la especificación del flujo de trabajo para encontrar las mejores prácticas de intercambio de datos y los estándares recomendados.</p><p>·     Contribuir con adiciones y cambios basados en la experiencia y las necesidades.</p>                                                                                       |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p> </p><p> </p><p> </p><p> </p><p> </p><p>Equipos de desarrollo de software</p>    | <p> </p><p> </p><p>·     Utilizar la especificación de componentes para ayudar a determinar los requisitos empresariales que se deben tener en cuenta en el desarrollo del software.</p><p>·     Utilizar la especificación del flujo de trabajo para encontrar los estándares a los que apoyar.</p><p>·     Contribuir con adiciones y cambios basados en la experiencia y las necesidades.</p>                                                                                                                                |
+| <p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>Ministerios de Salud</p> | <p> </p><p> </p><p>·     Hacer referencia a la especificación de la arquitectura de OpenHIE y al número de versión en los estándares de arquitectura o en los documentos de requisitos, según corresponda.</p><p>·     Utilizar la especificación de la arquitectura, la especificación de los componentes o la especificación del flujo de trabajo en el diseño de la arquitectura del proyecto o del país, según corresponda.</p><p>·     Contribuir con adiciones y cambios basados en la experiencia y las necesidades.</p> |

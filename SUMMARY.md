@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Resumen de la especificación](README.md)
-* [How to use the Specification](get-started.md)
+* [Cómo utilizar la especificación](get-started.md)
 * [Especificación de la arquitectura](architecture-specification/README.md)
   * [Arquitectura](architecture-specification/overview-of-the-architecture.md)
   * [Principios arquitectónicos](architecture-specification/architectural-principles.md)
