@@ -1,28 +1,37 @@
-# Specification Overview
+# Resumen de la especificación
 
-## Introduction to OpenHIE
+## **Introducción a OpenHIE**
 
-OpenHIE is a global mission-driven community of practice dedicated to improving the health of the underserved through open and collaborative development and support of country driven, large scale health information sharing architectures. The OpenHIE community supports interoperability by creating a reusable architectural framework that introduces a service-oriented approach which maximally leverages health information standards, enables flexible implementation by country partners, and supports interchangeability of individual components.
+OpenHIE es una comunidad de práctica global impulsada por la misión y dedicada a mejorar la salud de los menos favorecidos a través del desarrollo abierto y colaborativo y el apoyo a arquitecturas de intercambio de información de salud a gran escala impulsadas por los países. La comunidad OpenHIE apoya la interoperabilidad mediante la creación de un marco arquitectónico reutilizable que introduce un enfoque orientado a los servicios que aprovecha al máximo los estándares de información sobre la salud, permite una implementación flexible por parte de los socios de los países y apoya la intercambiabilidad de los componentes individuales.
 
-The following specification outlines the reusable architectural practices that constitute OpenHIE.  However, the framework is intended to be constantly evolving as standards and implementer needs change over time. &#x20;
+La siguiente especificación describe las prácticas arquitectónicas reutilizables que constituyen OpenHIE. Sin embargo, se pretende que el marco evolucione constantemente a medida que los estándares y las necesidades de los implementadores cambien con el tiempo.
 
-## Specification Purpose&#x20;
+## Propósito de la especificación
 
-The purpose of the specification release is to: &#x20;
+El propósito de la divulgación de la especificación es:
 
-* Provide an overview of the OpenHIE Architecture
-* Articulate the requirements  for [OpenHIE components ](openhie-component-specifications-1/)
-* Articulate the [workflows (data exchanges) ](introduction/)that are currently recognized as data exchange patterns to follow
-* Provide a reference for implementers to use in their architecture and/or implementations
+&#x20;
 
-## Specification Process&#x20;
+* proporcionar una visión general de la arquitectura de OpenHIE; articular los requisitos de los componentes de OpenHIE;
+* articular flujos de trabajo (intercambios de datos) que se reconocen actualmente como patrones de intercambio de datos que se deben seguir;
+*   proporcionar una referencia para que los implementadores la utilicen en su arquitectura o implementaciones.
 
-The process used to update the content was as follows: &#x20;
 
-1. Sub-communities contributed additions and changes&#x20;
-2. The OpenHIE Architecture Review Board reviewed and approved the content&#x20;
-3. The updates were merged into the published version of the documentation.  &#x20;
 
-The process is expected to evolve in future years. See [How to Provide Input](how-to-provde-input.md) for directions on how to propose changes and make comments. &#x20;
 
-****<img src=".gitbook/assets/creative-commons.svg" alt="" data-size="line"> **This work is licensed under a Creative Commons Attribution 4.0 International License.**
+
+## Proceso de especificación
+
+El proceso utilizado para actualizar el contenido fue el siguiente:
+
+1\.   Las subcomunidades aportaron adiciones y cambios.
+
+2\.   El Consejo de Revisión de la Arquitectura de OpenHIE revisó y aprobó el contenido.
+
+3\.   Las actualizaciones se integraron en la versión publicada de la documentación.
+
+Se espera que el proceso evolucione en los próximos años. Consulte la sección “Cómo realizar aportes” para obtener instrucciones sobre cómo proponer cambios y hacer comentarios.
+
+
+
+![](file:///Users/dtrefun/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip\_image002.jpg)**Este trabajo se hizo con licencia de Creative Commons Attribution 4.0 International License.**
