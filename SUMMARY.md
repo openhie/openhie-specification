@@ -8,7 +8,7 @@
   * [Estándares y Perfiles](architecture-specification/standards-and-profiles.md)
 * [Especificaciones de componentes de OpenHIE](openhie-component-specifications-1/README.md)
   * [Requisitos no funcionales](openhie-component-specifications-1/non-functional-requirements.md)
-  * [Client Registry (CR)](openhie-component-specifications-1/client-registry.md)
+  * [Registro de Clientes (CR)](openhie-component-specifications-1/client-registry.md)
   * [OpenHIE Facility Registry (FR)](openhie-component-specifications-1/openhie-facility-registry-fr.md)
   * [OpenHIE Finance and Insurance Service (FIS)](openhie-component-specifications-1/openhie-finance-and-insurance-service.md)
   * [OpenHIE Health Management Information System  (HMIS)](openhie-component-specifications-1/openhie-health-management-information-system-hmis.md)
