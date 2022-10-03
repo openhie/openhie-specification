@@ -1,11 +1,10 @@
-# Especificaciones de componentes de OpenHIE
+# OpenHIE Component Specifications
 
-El propósito de la sección de especificación de componentes de OpenHIE es describir lo que significa ser un componente de OpenHIE (los componentes de OpenHIE están representados en el cuadro gris de la figura 2.1). Se define cada uno de los componentes y se documentan los requisitos y recomendaciones. Además, los requisitos no funcionales descritos en la sección 4 de este documento son aplicables a cada componente de OpenHIE.
+The purpose of the OpenHIE Component Specification section is to outline what it means to be an OpenHIE Component.  (The OpenHIE Components are depicted in the gray box in figure 2.1).  Each of the components is defined and requirements and recommendations are documented.  Additionally, the non-functional requirements outlined in section 4 of this document are applicable to each OpenHIE Component. &#x20;
 
-Para que una aplicación de software cumpla con las expectativas de OpenHIE para un rol de componente específico en OpenHIE, ese software debe soportar cualquier flujo de trabajo "requerido" y cualquier otra funcionalidad "requerida".
+For a software application to meet OpenHIE expectations for a specific component role in OpenHIE, that software must support any “required” workflows and any other “required” functionality. ****&#x20;
 
-### Definiciones:
+**Definitions:** &#x20;
 
-**Recomendación:** la recomendación se fomenta y se ve como una función o flujo de trabajo importante que apoya las metas de OpenHIE.
-
-**Requisito:** para ser considerado un componente de OpenHIE, la función o el flujo de trabajo requeridos deben ser compatibles..&#x20;
+* **Recommendation:**  The recommendation is encouraged and viewed as an important function or workflow that supports OpenHIE goals.&#x20;
+* **Requirement:**  To qualify as an OpenHIE Component, the required function or workflow must be supported.&#x20;
