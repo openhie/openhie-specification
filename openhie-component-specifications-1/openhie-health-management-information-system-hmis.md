@@ -4,9 +4,9 @@ Un Sistema de Información de Gestión de Salud (Health Management Information S
 
 Consulte también “Requisitos no funcionales”.
 
-## **OpenHIE HMIS Workflow Requirements**&#x20;
+## Requisitos del flujo de trabajo del HMIS de OpenHIE ****&#x20;
 
-The following workflow is currently supported, and an FHIR-based message is emerging.&#x20;
+Actualmente se admite el siguiente flujo de trabajo, y está surgiendo un mensaje basado en Fast Healthcare Interoperability Resources (FHIR).&#x20;
 
 | <p> </p><p>N.º</p>                       | **Flujos de trabajo del HMIS (descritos en detalle en la parte posterior de este documento)** | <p> </p><p><strong>Recomendación o requisito</strong></p> |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
