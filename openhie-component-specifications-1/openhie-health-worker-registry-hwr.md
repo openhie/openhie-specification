@@ -1,35 +1,41 @@
-# OpenHIE Health Worker Registry (HWR)
+# Registro de Trabajadores de la Salud (HWR) de OpenHIE
 
-The Health Worker Registry serves as the central authority for maintaining the unique identities of health workers within a country. The Health Worker Registry is a database containing a minimum dataset of details of all health workers working in both the public and private sectors. With multiple and disparate sources of data on health workers, it is a complex task to pull together and maintain a master and canonical list of all health workers in a country. The health worker registry seeks to reduce the complexity of this task by: &#x20;
+El Registro de Trabajadores de la Salud (Health Worker Registry, HWR) sirve como autoridad central para mantener las identidades únicas de los trabajadores de la salud dentro de un país. El Registro de Trabajadores de la Salud es una base de datos que contiene un conjunto mínimo de detalles de todos los trabajadores de la salud que trabajan tanto en el sector público como en el privado. Con múltiples y dispares fuentes de datos sobre los trabajadores de la salud, es una tarea compleja reunir y mantener una lista maestra y canónica de todos los trabajadores de la salud de un país. El registro de trabajadores de la salud pretende reducir la complejidad de esta tarea:
 
-* Pulling the minimum dataset of health workforce information from the various source data systems.&#x20;
-* Merging the source data systems into an authoritative registry of health workers according to a data governance policy.&#x20;
-* Allowing queries of health worker information by client systems.
+&#x20;
 
-See also [Non-Functional Requirements](non-functional-requirements.md).&#x20;
+* Extraer el conjunto de datos mínimo de información sobre el personal de la salud de los distintos sistemas de datos de origen.
+* Fusionar los sistemas de datos de origen en un registro autorizado de trabajadores de la salud de acuerdo con una política de gobernanza de datos.
+* Permitir que los sistemas cliente consulten la información de los trabajadores de la salud.
 
-## **OpenHIE HWR Workflow Requirements**
+&#x20;
 
-A [core principle of the OpenHIE architecture](https://wiki.ohie.org/display/resources/Architectural+Principals) is to allow the various infrastructure services (such as the HWR) to be interchangeable. To support this, the [OpenHIE Standards and Profiles](https://wiki.ohie.org/display/documents/OpenHIE+Standards+and+Profiles) used by the Health Worker Registry are outlined in the workflows below. &#x20;
+Consulte también “Requisitos no funcionales
 
-To be an OHIE HWR component, the HWR application must be able to support the OHIE workflows listed below.  Implementations may support only the workflows needed to support their use case:\
+## Requisitos del flujo de trabajo del HWR de OpenHIE
+
+Un [principio básico de la arquitectura de OpenHIE ](https://wiki.ohie.org/display/resources/Architectural%2BPrincipals)es permitir que los distintos servicios de infraestructura (como el HWR) sean intercambiables. Para apoyar esto, los [estándares y perfiles de OpenHIE ](https://wiki.ohie.org/display/documents/OpenHIE%2BStandards%2Band%2BProfiles)utilizados por el Registro de Trabajadores de la Salud se describen en los siguientes flujos de trabajo.
+
+&#x20;Para ser un componente del HWR de OHIE, la aplicación del HWR debe ser capaz de soportar los flujos de trabajo de OHIE que se enumeran a continuación. Las implementaciones pueden admitir solo los flujos de trabajo necesarios para apoyar su caso de uso:\
 
 
-| #                                                                                                                     | **HWR Workflows (Described in detail in the later part of this document)**                                                                               | **Recommendation/ Requirement**                         |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| ****[**HWWF-1**](../introduction/care-services-discovery/query-health-worker-and-or-facility-records-workflow.md)**** | [Query health worker and/or facility records workflow.](../introduction/care-services-discovery/query-health-worker-and-or-facility-records-workflow.md) | Requirement (One of HWWF-1 or HWWF-2 must be supported) |
-| ****[**HWWF-2**](../introduction/care-services-discovery/query-care-services-records-workflow.md)****                 | [Query care services records workflow.](../introduction/care-services-discovery/query-care-services-records-workflow.md)                                 | Requirement (One of HWWF-1 or HWWF-2 must be supported) |
-| ****[**HWWF-3**](../introduction/care-services-discovery/search-care-services-workflow.md)****                        | [Search care services workflow.](../introduction/care-services-discovery/search-care-services-workflow.md)                                               | Recommendation                                          |
-| ****[**HWWF-4**](../introduction/care-services-discovery/request-care-services-updates-workflow.md)****               | [Request care services updates workflow.](../introduction/care-services-discovery/request-care-services-updates-workflow.md)                             | Requirement                                             |
+| <p> </p><p>N.º</p>                     | **Flujos de trabajo del HWR (descritos en detalle en la parte posterior de este documento)** | <p> </p><p><strong>Recomendación o requisito</strong></p>      |
+| -------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| <p> </p><p><strong>HWWF-1</strong></p> | Flujo de trabajo para consultar registros de trabajadores de la salud o de instalaciones.    | Requisito (debe admitirse una de las opciones HWWF-1 o HWWF-2) |
+| <p> </p><p><strong>HWWF-2</strong></p> | Consulta del flujo de trabajo de los registros de los servicios de atención.                 | Requisito (debe admitirse una de las opciones HWWF-1 o HWWF-2) |
+| **HWWF-3**                             | Buscar el flujo de trabajo de los servicios de atención.                                     | Recomendación                                                  |
+| <p> </p><p><strong>HWWF-4</strong></p> | Solicitar actualizaciones de los servicios de atención.                                      | <p> </p><p>Requisito</p>                                       |
 
-## **OpenHIE HWR Functional Requirements**
+## Requisitos funcionales del HWR de OpenHIE
 
-| **#**      | **HWR Functional Requirement**                                                                                                                                                                             | **Recommendation/ Requirement** |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| **HWRF-1** | The system shall support the ability to query source data systems for updates to health worker data.                                                                                                       | Required                        |
-| **HWRF-2** | The system shall support the ability to retain received updates from source data systems.                                                                                                                  | Required                        |
-| **HWRF-3** | The system shall support the ability to respond to queries on health worker data that has been stored.                                                                                                     | Required                        |
-| **HWRF-4** | The system should be able to send updates to upstream data repositories (such as an InterLinked Registry).                                                                                                 | Recommended                     |
-| **HWRF-5** | The system should support the ability to maintain old versions of health worker data when it has been updated.                                                                                             | Recommended                     |
-| **HWRF-6** | The system should support the collection of data for the following minimum dataset: [https://www.who.int/hrh/statistics/minimun\_data\_set/en/](https://www.who.int/hrh/statistics/minimun\_data\_set/en/) | Recommended                     |
-| **HWRF-7** | The system should have flexible standards-based APIs, based on CSD or mCSD                                                                                                                                 | Required                        |
+
+
+| <p> <strong></strong> </p><p><strong>N.º</strong></p>                              | <p> <strong></strong> </p><p><strong>Requisito funcional del HWR</strong></p>                                                                                    | **Recomendación o requisito**                                            |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <p> <strong></strong> </p><p> <strong></strong> </p><p><strong>HWRF-1</strong></p> | El sistema deberá permitir consultar los sistemas de datos de origen para actualizar los datos de los trabajadores de la salud.                                  | <p> <strong></strong> </p><p> <strong></strong> </p><p>Requisito</p>     |
+| <p> <strong></strong> </p><p><strong>HWRF-2</strong></p>                           | El sistema deberá permitir conservar las actualizaciones recibidas de los sistemas de datos de origen.                                                           | <p> <strong></strong> </p><p>Requisito</p>                               |
+| <p> <strong></strong> </p><p> <strong></strong> </p><p><strong>HWRF-3</strong></p> | El sistema deberá permitir responder consultas sobre los datos de los trabajadores de la salud que se hayan almacenado.                                          | <p> <strong></strong> </p><p> <strong></strong> </p><p>Requisito</p>     |
+| <p> <strong></strong> </p><p> <strong></strong> </p><p><strong>HWRF-4</strong></p> | El sistema deberá ser capaz de enviar actualizaciones a los repositorios de datos anteriores (como un registro interconectado).                                  | <p> <strong></strong> </p><p> <strong></strong> </p><p>Recomendación</p> |
+| <p> <strong></strong> </p><p> <strong></strong> </p><p><strong>HWRF-5</strong></p> | El sistema debe apoyar la capacidad de mantener las versiones antiguas de los datos de los trabajadores de la salud cuando se han actualizado.                   | <p> <strong></strong> </p><p> <strong></strong> </p><p>Recomendación</p> |
+| <p> <strong></strong> </p><p> <strong></strong> </p><p><strong>HWRF-6</strong></p> | <p>El sistema debe admitir la recopilación de datos para el siguiente conjunto de datos mínimo:</p><p>https://www.who.int/hrhstatistics/minimun_data_set/en/</p> | <p> <strong></strong> </p><p> <strong></strong> </p><p>Recomendación</p> |
+| <p> </p><p><strong>HWRF-7</strong></p>                                             | El sistema debe contar con API flexibles basadas en estándares, basadas en CSD o mCSD                                                                            | <p> </p><p>Requisito</p>                                                 |
