@@ -1,5 +1,7 @@
-# OpenHIE Finance and Insurance Service (FIS)
+# Servicio de Finanzas y Seguros (FIS) de OpenHIE
 
-Finance and Insurance Service stores, categorizes, and facilitates the administration of centralised claims and finance related data to care provision to patients within the HIE. The service receives claims/financial data from Point of Service applications (including financing applications acting as a point of service interface outside of other PoS systems) and curates the management of them.
+El Servicio de Finanzas y Seguros (Finance and Insurance Service, FIS) almacena, categoriza y facilita la administración de las reclamaciones centralizadas y los datos relacionados con las finanzas para la prestación de atención a los pacientes dentro del Intercambio de Información de Salud (Health Information Exchange, HIE). El servicio recibe las reclamaciones/datos financieros de aplicaciones de puntos de servicio (Point of Service, PoS) (incluidas las aplicaciones de financiación que actúan como interfaz de los puntos de servicio fuera de otros sistemas de PoS) y lleva la curaduría de su gestión.
 
-See also [Non-Functional Requirements](non-functional-requirements.md).&#x20;
+&#x20;
+
+Consulte también “Requisitos no funcionales”.

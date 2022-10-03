@@ -10,7 +10,7 @@
   * [Requisitos no funcionales](openhie-component-specifications-1/non-functional-requirements.md)
   * [Registro de Clientes (CR)](openhie-component-specifications-1/client-registry.md)
   * [Registro de instalaciones (FR) de OpenHIE](openhie-component-specifications-1/openhie-facility-registry-fr.md)
-  * [OpenHIE Finance and Insurance Service (FIS)](openhie-component-specifications-1/openhie-finance-and-insurance-service.md)
+  * [Servicio de Finanzas y Seguros (FIS) de OpenHIE](openhie-component-specifications-1/openhie-finance-and-insurance-service.md)
   * [OpenHIE Health Management Information System  (HMIS)](openhie-component-specifications-1/openhie-health-management-information-system-hmis.md)
   * [OpenHIE Health Worker Registry (HWR)](openhie-component-specifications-1/openhie-health-worker-registry-hwr.md)
   * [OpenHIE Interoperability Layer  (IOL)](openhie-component-specifications-1/openhie-interoperability-layer-iol.md)
