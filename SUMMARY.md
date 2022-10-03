@@ -13,7 +13,7 @@
   * [Servicio de Finanzas y Seguros (FIS) de OpenHIE](openhie-component-specifications-1/openhie-finance-and-insurance-service.md)
   * [Sistema de Información de Gestión de Salud (HMIS) de OpenHIE](openhie-component-specifications-1/openhie-health-management-information-system-hmis.md)
   * [Registro de Trabajadores de la Salud (HWR) de OpenHIE](openhie-component-specifications-1/openhie-health-worker-registry-hwr.md)
-  * [OpenHIE Interoperability Layer  (IOL)](openhie-component-specifications-1/openhie-interoperability-layer-iol.md)
+  * [Capa de Interoperabilidad (IOL) de OpenHIE](openhie-component-specifications-1/openhie-interoperability-layer-iol.md)
   * [OpenHIE Logistics Management Information System  (LMIS)](openhie-component-specifications-1/openhie-logistics-management-information-system-lmis.md)
   * [OpenHIE Product Catalogue (PC)](openhie-component-specifications-1/openhie-product-catalogue-pc.md)
   * [OpenHIE Shared Health Record (SHR)](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
