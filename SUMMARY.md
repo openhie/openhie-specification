@@ -6,7 +6,7 @@
   * [Arquitectura](architecture-specification/overview-of-the-architecture.md)
   * [Principios arquitectónicos](architecture-specification/architectural-principles.md)
   * [Estándares y Perfiles](architecture-specification/standards-and-profiles.md)
-* [OpenHIE Component Specifications](openhie-component-specifications-1/README.md)
+* [Especificaciones de componentes de OpenHIE](openhie-component-specifications-1/README.md)
   * [Non-Functional Requirements](openhie-component-specifications-1/non-functional-requirements.md)
   * [Client Registry (CR)](openhie-component-specifications-1/client-registry.md)
   * [OpenHIE Facility Registry (FR)](openhie-component-specifications-1/openhie-facility-registry-fr.md)
