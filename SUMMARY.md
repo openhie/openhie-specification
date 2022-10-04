@@ -14,7 +14,7 @@
   * [Sistema de Información de Gestión de Salud (HMIS) de OpenHIE](openhie-component-specifications-1/openhie-health-management-information-system-hmis.md)
   * [Registro de Trabajadores de la Salud (HWR) de OpenHIE](openhie-component-specifications-1/openhie-health-worker-registry-hwr.md)
   * [Capa de Interoperabilidad (IOL) de OpenHIE](openhie-component-specifications-1/openhie-interoperability-layer-iol.md)
-  * [OpenHIE Logistics Management Information System  (LMIS)](openhie-component-specifications-1/openhie-logistics-management-information-system-lmis.md)
+  * [Sistema de Información para la Gestión Logística (LMIS) de OpenHIE](openhie-component-specifications-1/openhie-logistics-management-information-system-lmis.md)
   * [OpenHIE Product Catalogue (PC)](openhie-component-specifications-1/openhie-product-catalogue-pc.md)
   * [OpenHIE Shared Health Record (SHR)](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
   * [OpenHIE Terminology Service (TS)](openhie-component-specifications-1/openhie-terminology-service-ts.md)

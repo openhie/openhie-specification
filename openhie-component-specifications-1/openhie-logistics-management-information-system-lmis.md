@@ -1,13 +1,13 @@
-# OpenHIE Logistics Management Information System  (LMIS)
+# Sistema de Información para la Gestión Logística (LMIS) de OpenHIE
 
-A Logistics Management Information System (LMIS) is an IT system that plays a central role in enabling commodity visibility and operational management of a wide-area supply chain operations. Typically the commodities in this supply chain are health-related, with the organization that sponsors the system a department or agency under a government's health ministry, and the operation is carried out at scale for an entire region or even an entire nation. An LMIS typically bridges the health and supply chain operations by enabling re-supply workflows for clinical locations and the vertical programs targeting families of commodities, as well as interfacing with supplier's IT systems to ensure the re-supply process is fulfilled as needed.  Particular LMIS tools may have additional capabilities that enhance these re-supply workflows and/or add to the maturity of the wider supply chain operations.
+Un Sistema de Información para la Gestión Logística (Logistics Management Information System, LMIS) es un sistema informático que desempeña un papel fundamental para permitir la visibilidad de los productos y la gestión operativa de las operaciones de una cadena de suministro de amplio alcance. Por lo general, los productos de esta cadena de suministro están relacionados con la salud, y la organización que patrocina el sistema es un departamento o agencia dependiente del ministerio de salud de un gobierno, y la operación se lleva a cabo a escala para toda una región o incluso toda una nación. Un LMIS suele tender un puente entre las operaciones de salud y las de la cadena de suministro al permitir los flujos de trabajo de reabastecimiento para las ubicaciones clínicas y los programas verticales dirigidos a las familias de productos básicos, así como al interconectarse con los sistemas de TI de los proveedores para garantizar que el proceso de reabastecimiento se cumpla según sea necesario. Determinadas herramientas del LMIS pueden tener capacidades adicionales que mejoren estos flujos de trabajo de reabastecimiento o añadan madurez a las operaciones más amplias de la cadena de suministro.
 
-See also [Non-Functional Requirements](non-functional-requirements.md).&#x20;
+Consulte también “Requisitos no funcionales”.
 
-## **OpenHIE LMIS Workflow Requirements**&#x20;
+## Requisitos del flujo de trabajo del LMIS de OpenHIE ****&#x20;
 
-The LMIS workflow requirements are yet to be determined.&#x20;
+Los requisitos del flujo de trabajo del LMIS aún no se han determinado.
 
-## **OpenHIE LMIS Functional Requirements**
+## Requisitos funcionales del LMIS de OpenHIE
 
-The LMIS functional requirements are yet to be determined.&#x20;
+Los requisitos funcionales del LMIS aún no se han determinado.
