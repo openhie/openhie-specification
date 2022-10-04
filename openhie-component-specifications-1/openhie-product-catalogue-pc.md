@@ -1,13 +1,13 @@
-# Catálogo de productos (PC) de OpenHIE
+# OpenHIE Product Catalogue (PC)
 
-Un catálogo de productos sirve como fuente de verdad sobre lo que es un producto dentro de un HIE. Obtiene la información para esta función a través de dos medios esperados: 1) como resultado continuo de un proceso de gestión de datos maestros para definir y categorizar adecuadamente productos médicos; y 2) como datos derivados sobre la definición y categorización adecuadas de productos médicos (p. ej., GS1 GDSN).
+A Product Catalogue serves as the source of truth about what a Product is within an HIE. It sources the information for this role through two expected means:  1) as the ongoing result of a process of master data management to properly define and categorize medical products and 2) as derived data on the proper definition and categorization of medical products (e.g., GS1 GDSN).
 
-Consulte también “Requisitos no funcionales”.
+See also [Non-Functional Requirements](non-functional-requirements.md).&#x20;
 
-## Requisitos del flujo de trabajo de PC de OpenHIE
+## **OpenHIE PR Workflow Requirements**&#x20;
 
-Los requisitos del flujo de trabajo del catálogo de productos aún no se han determinado.
+The product catalogue workflow requirements are yet to be determined.&#x20;
 
-## Requisitos funcionales de PC de OpenHIE
+## OpenHIE PR Functional Requirements&#x20;
 
-Los requisitos funcionales del catálogo de productos aún no se han determinado.
+The product catalogue functional requirements are yet to be determined.

@@ -16,7 +16,7 @@
   * [Capa de Interoperabilidad (IOL) de OpenHIE](openhie-component-specifications-1/openhie-interoperability-layer-iol.md)
   * [Sistema de Información para la Gestión Logística (LMIS) de OpenHIE](openhie-component-specifications-1/openhie-logistics-management-information-system-lmis.md)
   * [Catálogo de productos (PC) de OpenHIE](openhie-component-specifications-1/openhie-product-catalogue-pc.md)
-  * [OpenHIE Shared Health Record (SHR)](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
+  * [Historia Clínica Compartida (SHR) de OpenHIE](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
   * [OpenHIE Terminology Service (TS)](openhie-component-specifications-1/openhie-terminology-service-ts.md)
   * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
 * [Especificaciones del flujo de trabajo (intercambio)](introduction/README.md)
