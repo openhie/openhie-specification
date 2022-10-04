@@ -18,7 +18,7 @@
   * [Catálogo de productos (PC) de OpenHIE](openhie-component-specifications-1/openhie-product-catalogue-pc.md)
   * [Historia Clínica Compartida (SHR) de OpenHIE](openhie-component-specifications-1/openhie-shared-health-record-shr.md)
   * [Servicio de Terminología (TS) de OpenHIE](openhie-component-specifications-1/openhie-terminology-service-ts.md)
-  * [Point-Of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md)
+  * [Sistemas de punto de atención](openhie-component-specifications-1/point-of-care-systems.md)
 * [Especificaciones del flujo de trabajo (intercambio)](introduction/README.md)
   * [Flujos de trabajo de informes agregados](introduction/aggregate-reporting-workflows/README.md)
     * [Exportar datos agregados](introduction/aggregate-reporting-workflows/export-aggregate-data.md)
