@@ -1,28 +1,13 @@
-# Sistemas de punto de atención
+# Point-Of-Care Systems
 
-Un principio arquitectónico fundamental de OpenHIE es diseñar los componentes para que sean intercambiables. Para ello, los estándares y perfiles utilizados por los sistemas de puntos de atención se describen en los siguientes flujos de trabajo.
+A core [Architectural Principle](../architecture-specification/architectural-principles.md) of OpenHIE is to design the components to be interchangeable. To support this,  the [Standards and Profiles](../architecture-specification/standards-and-profiles.md) used by Point-of-Care Systems are outlined in the workflows below. Implementations may choose to only the workflows needed to support their use case, however, consider support for each of these during software selection processes. &#x20;
 
-Las implementaciones pueden elegir solo los flujos de trabajo necesarios para apoyar su caso de uso, sin embargo, considere el apoyo a cada uno de ellos durante los procesos de selección de software.
+See also [Non-Functional Requirements](non-functional-requirements.md).&#x20;
 
-Consulte también “Requisitos no funcionales”.
+## Point-of-Care Workflows &#x20;
 
-&#x20;
-
-## Flujos de trabajo en el punto de atención&#x20;
-
-Tipo de sistema
-
-\
-
-
-Flujos de trabajo para apoyar (según los casos de uso aplicables)
-
-\
-
-
-&#x20;
-
-| <p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>Sistemas de historias clínicas electrónicas/soluciones para trabajadores de la salud comunitarios</p> | <p> </p><p>·     Flujos de trabajo de informes agregados.</p><p>·     Alertas y envío de recordatorios o información.</p><p>·     Descubrimiento de servicios de atención.</p><p>·     Flujos de trabajo de laboratorio.</p><p>·     Flujos de trabajo de gestión de la identidad del paciente.</p><p>·     Historia Clínica Compartida.</p><p>·     Flujo de trabajo de servicio de terminología.</p><p>·     Flujos de trabajo de vacunas.</p>         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>Sistemas de laboratorio</p>                                                                   | <p> </p><p> </p><p>·     Flujos de trabajo de informes agregados.</p><p>·     Alertas y envío de recordatorios o información.</p><p>·     Descubrimiento de servicios de atención.</p><p>·     Flujos de trabajo de laboratorio.</p><p>·     Flujos de trabajo de gestión de la identidad del paciente.</p><p>·     Historia Clínica Compartida.</p><p>·     Flujo de trabajo de servicio de terminología.</p><p>·     Flujos de trabajo de vacunas.</p> |
+| System Type                                                            | Workflows to Support (Depending upon applicable use cases)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Electronic Medical Records Systems / Community Health Worker Solutions | <ul><li><a href="../introduction/aggregate-reporting-workflows/">Aggregate Reporting Workflows</a> </li><li><a href="../introduction/alerting-sending-reminders-or-information/">Alerting / Sending Reminders or Information</a></li><li><a href="../introduction/care-services-discovery/">Care Services Discovery</a></li><li><a href="../introduction/laboratory-work-flows/">Laboratory Work Flows</a></li><li><a href="../introduction/patient-identity-management-workflows/">Patient Identity Management Workflows</a></li><li><a href="../introduction/shared-health-record/">Shared Health Record</a></li><li><a href="../introduction/terminology-service-workflow/">Terminology Service Workflow</a></li><li><a href="../introduction/vaccine-workflows.md">Vaccine Workflows</a></li></ul>        |
+| Laboratory Systems                                                     | <p></p><ul><li><a href="../introduction/aggregate-reporting-workflows/">Aggregate Reporting Workflows</a> </li><li><a href="../introduction/alerting-sending-reminders-or-information/">Alerting / Sending Reminders or Information</a></li><li><a href="../introduction/care-services-discovery/">Care Services Discovery</a></li><li><a href="../introduction/laboratory-work-flows/">Laboratory Work Flows</a></li><li><a href="../introduction/patient-identity-management-workflows/">Patient Identity Management Workflow</a>s</li><li><a href="../introduction/shared-health-record/">Shared Health Record</a></li><li><a href="../introduction/terminology-service-workflow/">Terminology Service Workflow</a></li><li><a href="../introduction/vaccine-workflows.md">Vaccine Workflows</a></li></ul> |
 

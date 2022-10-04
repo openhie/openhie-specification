@@ -58,5 +58,5 @@
     * [HFW-003: Revisar la elegibilidad para la cobertura](introduction/openhie-finance-and-insurance-services-workflows/hfw-003-check-coverage-eligibility.md)
     * [HFW-004: Reclamaciones](introduction/openhie-finance-and-insurance-services-workflows/hfw-004-claiming.md)
     * [HFW-005: Seguimiento a la reclamación](introduction/flujos-de-trabajo-de-los-servicios-de-seguros-y-finanzas-de-openhie/hfw-005-seguimiento-a-la-reclamacion.md)
-* [How to Provide Feedback and Input](how-to-provde-input.md)
+* [Cómo hacer comentarios y contribuciones](how-to-provde-input.md)
 * [Change Log and Versioning](change-log-and-versioning.md)
