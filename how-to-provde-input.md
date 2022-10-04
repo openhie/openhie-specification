@@ -1,33 +1,24 @@
-# Cómo hacer comentarios y contribuciones
+# How to Provide Feedback and Input
 
-**Necesitamos su opinión**
+## We Need Your Input&#x20;
 
-Para ayudar a que esto sea lo más útil posible, nos encantaría mejorar este documento y ayudar a otros en la comunidad OpenHIE:
+To help make this as useful as possible, we would love to improve this document and help others in the OpenHIE community by:
 
-·     Reproducir el contenido que está aquí y hacerlo más claro y refinado, lo que lo hace mejor.
+* Iterating on the content that is here and making it more clear, more refined and better! &#x20;
+* Suggesting new content that you are working or or that you would like us to work on!&#x20;
 
-·     Sugerir nuevos contenidos en los que esté trabajando o en los que le gustaría que trabajáramos.
+### Here are some prompts to help you think about the types of suggestions that might help us provide better content: &#x20;
 
-&#x20;
+1. &#x20;What can we add or change to help you? &#x20;
+2. Are there additional things you need to support your country or implementation? &#x20;
+3. Are there additional components or workflows that should be included? &#x20;
+4. What are we missing? &#x20;
+5. What information do you wish was included?&#x20;
 
-### A continuación, se ofrecen algunas sugerencias para ayudarlo a pensar en los tipos de sugerencias que podrían ayudarnos a proporcionar un mejor contenido:
+## How to Suggest Additions and Revisions:
 
-&#x20;****&#x20;
+1. Go to [Discourse ](https://discourse.ohie.org/c/openhie-feedback/3) &#x20;
+2. Select "new topic" button&#x20;
+3. Specify the artifact that needs revision.  In this case, it is the "OpenHIE Architecture Specification" and follow the directions to make your suggestion.  Be as specific as possible. &#x20;
 
-1\.    ¿Qué podemos añadir o cambiar para ayudarlo?
-
-2\.    ¿Hay cosas adicionales que necesite para apoyar a su país o su implementación?
-
-3\.    ¿Hay componentes o flujos de trabajo adicionales que deberían incluirse?
-
-4\.    ¿Qué nos falta?
-
-¿Qué información le gustaría que se incluyera
-
-## Cómo sugerir adiciones y revisiones:
-
-1. Vaya a [Discourse](https://discourse.ohie.org/c/openhie-feedback/3) (discurso).
-2. Seleccione el botón "new topic" (tema nuevo).
-3. Especifique el objeto que necesita revisión. En este caso, se trata de la “especificación de la Arquitectura de OpenHIE” y siga las instrucciones para hacer su sugerencia. Sea lo más específico posible.
-
-Gracias.
+Thank you. &#x20;

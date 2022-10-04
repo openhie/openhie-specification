@@ -59,4 +59,4 @@
     * [HFW-004: Reclamaciones](introduction/openhie-finance-and-insurance-services-workflows/hfw-004-claiming.md)
     * [HFW-005: Seguimiento a la reclamación](introduction/flujos-de-trabajo-de-los-servicios-de-seguros-y-finanzas-de-openhie/hfw-005-seguimiento-a-la-reclamacion.md)
 * [Cómo hacer comentarios y contribuciones](how-to-provde-input.md)
-* [Change Log and Versioning](change-log-and-versioning.md)
+* [Registro de cambios y control de versiones](change-log-and-versioning.md)

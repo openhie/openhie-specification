@@ -1,78 +1,136 @@
-# Change Log and Versioning
+# Registro de cambios y control de versiones
 
 
 
+**Proceso de versionado**
+
+&#x20;****&#x20;
+
+1\.   Los cambios aprobados por la comunidad se añaden a la rama de desarrollo (development, DEV).
+
+2\.   La Junta de Revisión de Arquitectura (Architecture Review Board, ARB) revisa as actualizaciones de la rama DEV.
+
+3\.   Los cambios aprobados por la ARB se añaden a la rama Staging (poner en práctica).
+
+4\.   Todas las actualizaciones de Staging se publican como una nueva versión de la especificación.
+
+## Versión 5.0 (julio de 2022)
+
+&#x20;****&#x20;
+
+### Adiciones
+
+&#x20;****&#x20;
+
+·     Se ha añadido una nueva sección de flujos de trabajo![](file:///Users/dtrefun/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip\_image003.jpg) **Flujos de trabajo de los servicios financieros y de seguros de OpenHIE.**
+
+·     Sincronización de Gitbook con Github para gestionar las ramas y el versionado.
+
+·     Se ha añadido el proceso de versionado.
+
+&#x20;
+
+### Actualizaciones
+
+&#x20;****&#x20;
+
+·     Actualizado
 
 
-## Versioning Process
 
-1. Community approved changes are added in the DEV branch
-2. Dev branch updates are reviewed by the ARB.
-3. ARB approved changes are added to the Staging branch
-4. All updates in the staging are released as a new version of the specification
-
-## Version 5.0-es (July 2022-Current)
-
-### Additions -&#x20;
-
-* Traducción al español dentro del proyecto PerMondo para la traducción gratuita de páginas web y documentos para ONG y asociaciones sin ánimo de lucro. Proyecto dirigido por Mondo Agit. Traductora: **Silvia Alejandra Vázquez García.** Revisora: **María Cepeda**.&#x20;
+**Exportar datos agregados** para incluir mADX y proporcionar más flexibilidad en los sistemas de envío y recepción
 
 
 
-## Version 5.0 (July 2022)
+**Crear enlaces de flujo de trabajo de registros demográficos de pacientes** para que sean funcionales y actuales.
 
-### Additions
+&#x20;&#x20;
 
-* Added a new workflows section [openhie-finance-and-insurance-services-workflows](introduction/openhie-finance-and-insurance-services-workflows/ "mention")
-* Synced Gitbook with Github to manage branches and versioning
-* Added versioning process
+### Cómo hacer referencia a esta versión
 
-### Updates&#x20;
+&#x20;****&#x20;
 
-* Updated [export-aggregate-data.md](introduction/aggregate-reporting-workflows/export-aggregate-data.md "mention") to include mADX and provide more flexibility in the sending and receiving systems. &#x20;
-* Updated [create-patient-demographic-record-workflow-1.md](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow-1.md "mention") links to be functional and current.
+[Esta es la versión 5.0 de la especificación. Para hacer referencia a ella, incluya el enlace (https://guides.ohie.org/arch- spec/) e indique el número de versión.](https://guides.ohie.org/arch-spec/)
 
-### How to Reference This Version
+&#x20;
 
-This is the 5.0 version of the specification.  To reference it, include the link ([https://guides.ohie.org/arch-spec/](https://guides.ohie.org/arch-spec/)) and state the version number. &#x20;
+## Versión 4.0 (septiembre de 2021)
 
-## Version 4.0 (September 2021)
+A continuación se presenta un resumen de los cambios significativos de contenido que se han realizado.
 
-The following are an overview of the significant content changes that have been made. &#x20;
+&#x20;
 
-### Additions
+### Adiciones
 
-* Added [Point-of-Care Systems](openhie-component-specifications-1/point-of-care-systems.md) page
-* Added [How to use the Specification](get-started.md) page
-* Added [Standards and Profiles](architecture-specification/standards-and-profiles.md) page
-* Added a new workflow section, [Vaccine Workflows](introduction/vaccine-workflows.md). &#x20;
-* Moved [Architecture Principles](architecture-specification/architectural-principles.md) from the wiki to the Specification&#x20;
-* Moved [Architecture Standards and Profiles](architecture-specification/standards-and-profiles.md) from the wiki to the Specification
+&#x20;****&#x20;
 
-### Updates&#x20;
+·     Se añadió la página de “sistemas de punto de atención”.
 
-* Updated diagram on the [Architecture](architecture-specification/overview-of-the-architecture.md) page to specifically denote Community Health Information Systems (CHIS).&#x20;
-* Changed the format from PDF to GitBook&#x20;
-* Minor changes in wording and formatting for GitBook
-* On Feb 15th it was noted that a section of this workflow was missing.  [create-patient-demographic-record-workflow.md](introduction/patient-identity-management-workflows/create-patient-demographic-record-workflow.md "mention")was updated. &#x20;
+·     Se añadió la página “cómo utilizar la especificación”.
 
-### How to Reference This Version
+·     Se añadió la página de “estándares y perfiles”.
 
-This is the 4.0 (September 2021) version of the specification.  To reference it, include the link ([https://guides.ohie.org/arch-spec/](https://guides.ohie.org/arch-spec/)) and state the version number. &#x20;
+·     Se añadió una nueva sección de flujos de trabajo, “flujos de trabajo de vacunas”.
 
-## Version 3.0 (September 2020)
+·     Traslado de los principios de arquitectura de la wiki a la especificación.
 
-Previous releases of the OpenHIE Architecture Specification are stored on the [OpenHIE website](https://ohie.org/framework/).
+·     Traslado de los estándares y perfiles de arquitectura de la wiki a la especificación.
 
-### Additions
+&#x20;
 
-* **OpenHIE Workflow (Data Exchange) Maturity Level** This maturity level takes into account the maturity of underlying IHE / FHIR specifications and the use of the workflow pattern in implementations.
-* **Laboratory Workflows** Data exchanges revolving around laboratory information have been added to the specification.
-* **The Facility Registry Requirements** The requirements for the key features of a facility registry were updated.
-* **Terminology Workflow Updates** The terminology workflows were updated to include IHE specification.
+&#x20;
 
-## Previous Versions
+### Actualizaciones
 
-**Previous Specification Versions** Previous releases of the specification document can be found on this page of the [OpenHIE Wiki](https://wiki.ohie.org/).
+&#x20;****&#x20;
 
-****<img src=".gitbook/assets/creative-commons.svg" alt="" data-size="line"> **This work is licensed under a Creative Commons Attribution 4.0 International License.**
+·     Se actualizó el diagrama de la página de arquitectura para indicar específicamente los Sistemas de Información de Salud Comunitarios (Community Health Information Systems, CHIS).
+
+·     Se cambió el formato de PDF a GitBook.
+
+·     Cambios menores en la redacción y el formato de GitBook.
+
+·     El 15 de febrero se observó que faltaba una sección de este flujo de trabajo.
+
+### ![](file:///Users/dtrefun/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip\_image007.jpg) Se actualizó el flujo de trabajo de Consulta de Registros Demográficos de Pacientes por Demografía.
+
+&#x20;
+
+&#x20;
+
+**Cómo hacer referencia a esta versión**
+
+&#x20;****&#x20;
+
+[Esta es la versión 4.0 (septiembre de 2021) de la especificación. Para hacer referencia a ella, incluya el enlace (https:// guides.ohie.org/arch-spec/) e indique el número de versión.](https://guides.ohie.org/arch-spec/)
+
+&#x20;
+
+\
+
+
+## Versión 3.0 (septiembre de 2020)
+
+Las versiones anteriores de la especificación de la arquitectura de OpenHIE están almacenadas en el [sitio web de OpenHIE](https://ohie.org/framework/).
+
+&#x20;
+
+### Adiciones
+
+&#x20;****&#x20;
+
+·     **Nivel de madurez del flujo de trabajo de OpenHIE (intercambio de datos).** Este nivel de madurez tiene en cuenta la madurez de las especificaciones IHE/FHIR subyacentes y el uso del patrón de flujo de trabajo en las implementaciones.
+
+·     **Flujos de trabajo de laboratorio.** Se añadieron a la especificación los intercambios de datos que giran en torno a la información de laboratorio.
+
+·     **Requisitos del registro de instalaciones** Se actualizaron los requisitos de las características clave de un registro de instalaciones.
+
+·     **Actualizaciones del flujo de trabajo de terminología.** Los flujos de trabajo de terminología se actualizaron para incluir la especificación de IHE.&#x20;
+
+## Versiones anteriores
+
+**Versiones anteriores de la especificación.** Las versiones anteriores del documento de especificación se pueden encontrar en esta página de la [wiki de OpenHIE](https://wiki.ohie.org/).
+
+&#x20;
+
+![](file:///Users/dtrefun/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip\_image009.jpg)**Este trabajo se hizo con licencia de Creative Commons Attribution 4.0 International License.**
