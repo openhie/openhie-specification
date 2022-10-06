@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Vue d’ensemble de la spécification](README.md)
-* [How to use the Specification](get-started.md)
+* [Comment utiliser la spécification](get-started.md)
 * [Cahier des charges de l’Architecture](architecture-specification/README.md)
   * [Architecture](architecture-specification/overview-of-the-architecture.md)
   * [Principes architecturaux](architecture-specification/architectural-principles.md)
