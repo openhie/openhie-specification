@@ -1,28 +1,32 @@
-# Specification Overview
+# Vue d’ensemble de la spécification
 
-## Introduction to OpenHIE
+## **Introduction à OpenHIE**
 
-OpenHIE is a global mission-driven community of practice dedicated to improving the health of the underserved through open and collaborative development and support of country driven, large scale health information sharing architectures. The OpenHIE community supports interoperability by creating a reusable architectural framework that introduces a service-oriented approach which maximally leverages health information standards, enables flexible implementation by country partners, and supports interchangeability of individual components.
+OpenHIE est une communauté mondiale de praticiens axée sur sa mission et dédiée à l’amélioration de la santé des personnes défavorisées. Elle agit en développant et en soutenant de manière ouverte et collaborative des architectures de partage d’informations de santé à grande échelle pilotées par les différents pays. La communauté OpenHIE soutient l’interopérabilité en créant un cadre architectural réutilisable qui introduit une approche orientée sur le service. Cette approche exploite au maximum les normes d’information sur la santé, permet une mise en œuvre flexible par les partenaires nationaux et prend en charge l’interchangeabilité des composants individuels.
 
-The following specification outlines the reusable architectural practices that constitute OpenHIE.  However, the framework is intended to be constantly evolving as standards and implementer needs change over time. &#x20;
+La spécification ci-après décrit les pratiques architecturales réutilisables qui constituent OpenHIE. Cependant, le cadre est destiné à évoluer constamment à mesure que les normes et les besoins des exécutants changent au fil du temps.
 
-## Specification Purpose&#x20;
+&#x20; &#x20;
 
-The purpose of the specification release is to: &#x20;
+## Objectif de la spécification&#x20;
 
-* Provide an overview of the OpenHIE Architecture
-* Articulate the requirements  for [OpenHIE components ](openhie-component-specifications-1/)
-* Articulate the [workflows (data exchanges) ](introduction/)that are currently recognized as data exchange patterns to follow
-* Provide a reference for implementers to use in their architecture and/or implementations
+La publication de la spécification vise les objectifs suivants :&#x20;
 
-## Specification Process&#x20;
+* Fournir une vue d’ensemble de l’architecture OpenHIE
+* Formuler des exigences relatives aux composants OpenHIE
+* Articuler les flux de travail (échanges de données) qui sont actuellement reconnus comme modèles d’échange de données à suivre
+* Fournir aux responsables de la mise en œuvre une référence à utiliser dans leur architecture et/ou leurs implémentations
 
-The process used to update the content was as follows: &#x20;
+## Processus de spécification&#x20;
 
-1. Sub-communities contributed additions and changes&#x20;
-2. The OpenHIE Architecture Review Board reviewed and approved the content&#x20;
-3. The updates were merged into the published version of the documentation.  &#x20;
+Le processus utilisé pour mettre à jour le contenu était le suivant :
 
-The process is expected to evolve in future years. See [How to Provide Input](how-to-provde-input.md) for directions on how to propose changes and make comments. &#x20;
+1. Les sous-communautés ont apporté des ajouts et des modifications.
+2. Le comité d’examen de l’architecture OpenHIE a examiné et approuvé le contenu.
+3.  Les mises à jour ont été fusionnées dans la version publiée de la documentation.
 
-****<img src=".gitbook/assets/creative-commons (1).svg" alt="" data-size="line"> **This work is licensed under a Creative Commons Attribution 4.0 International License.**
+
+
+Le processus devrait évoluer dans les années à venir. Voir Comment faire des commentaires pour savoir comment proposer des modifications et faire des commentaires.
+
+**Ce travail est sous licence internationale Creative Commons Attribution 4.0.**
