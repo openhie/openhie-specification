@@ -62,4 +62,4 @@
     * [HFW-005: Claim Tracking](introduction/openhie-finance-and-insurance-services-workflows/hfw-005-claim-tracking.md)
   * [French Translation](https://app.gitbook.com/o/-MYyeQVoQF7rp5fqcUe9/s/4GYEZP5VCC4cSbGm4KQH/translation\_french)
 * [Comment fournir des commentaires et apporter sa contribution](how-to-provde-input.md)
-* [Change Log and Versioning](change-log-and-versioning.md)
+* [Journal des modifications et gestion des versions](change-log-and-versioning.md)
