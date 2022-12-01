@@ -2,7 +2,7 @@
 
 ## Introduction to OpenHIE
 
-**OpenHIE** is a global mission-driven community of practice dedicated to improving the health of the underserved through open and collaborative development and support of country driven, large scale health information sharing architectures. The OpenHIE community supports interoperability by creating a reusable architectural framework that introduces a service-oriented approach which maximally leverages health information standards, enables flexible implementation by country partners, and supports interchangeability of individual components.
+OpenHIE is a global mission-driven community of practice dedicated to improving the health of the underserved through open and collaborative development and support of country driven, large scale health information sharing architectures. The OpenHIE community supports interoperability by creating a reusable architectural framework that introduces a service-oriented approach which maximally leverages health information standards, enables flexible implementation by country partners, and supports interchangeability of individual components.
 
 The following specification outlines the reusable architectural practices that constitute OpenHIE.  However, the framework is intended to be constantly evolving as standards and implementer needs change over time. &#x20;
 
