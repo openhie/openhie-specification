@@ -6,6 +6,8 @@ description: Guiding principles that inform the OpenHIE decision-making process.
 
 ## **Standards-Based**&#x20;
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-14 at 2.54.29 PM.png" alt=""><figcaption></figcaption></figure>
+
 \
 OpenHIE preferentially seeks to leverage consensus-based, international interoperability specifications that support countries' health information exchange needs. We are committed to engaging in the IHE interoperability specification development process. To the extent possible we will leverage the IHE process to identify, evaluate and implement pre-existing IHE specifications and will also advocate for the development of future solutions.\
 

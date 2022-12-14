@@ -14,7 +14,7 @@ This transaction allows Point-of-Service (PoS) systems to query for patients tha
 
 The following is a description of the interaction steps.
 
-![](../../.gitbook/assets/QueryPatientDemographicRecordsByDem.png)
+![](../../.gitbook/assets/QueryPatientDemographicRecordsByDem.png.crdownload)
 
 ## Technical details <a href="#querypatientdemographicrecordsbydemographicsworkflow-technicaldetails" id="querypatientdemographicrecordsbydemographicsworkflow-technicaldetails"></a>
 
