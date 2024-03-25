@@ -25,4 +25,4 @@ The process used to update the content was as follows: &#x20;
 
 The process is expected to evolve in future years. See [How to Provide Input](how-to-provde-input.md) for directions on how to propose changes and make comments. &#x20;
 
-****<img src=".gitbook/assets/creative-commons (1).svg" alt="" data-size="line"> **This work is licensed under a Creative Commons Attribution 4.0 International License.**
+<img src=".gitbook/assets/creative-commons (1).svg" alt="" data-size="line"> **This work is licensed under a Creative Commons Attribution 4.0 International License.**
