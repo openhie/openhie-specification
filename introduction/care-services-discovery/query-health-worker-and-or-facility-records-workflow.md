@@ -1,6 +1,6 @@
 # Query Health Worker and/or Facility Records Workflow
 
-&#x20;**** Workflow for a point of service application to query the Info Manager for health workers, facilities and/or the services provided by each.
+&#x20;Workflow for a point of service application to query the Info Manager for health workers, facilities and/or the services provided by each.
 
 | **Workflow Maturity**         | <p><img src="https://lh5.googleusercontent.com/JtMiFMfprHsm6bp5bPjwqbjk7lTXHFOmWF6hvgxXCOpsdz7FEWQnuyjwaCnkTfyCG-fOtIfz6TtqGkwHNHL1kQH0-R-JzEC6LngazcAgioSUd7b5qlvsaEqqrYfJrOrZlQ" alt=""></p><p>  <strong>Maturing</strong></p> | <p></p><ul><li>Workflow is defined and ARB Approved</li><li>Workflow is supported by CSD IHE standards*</li></ul>                                                                                                                                                                                                                                                                 |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 
 ## **Interaction Description**&#x20;
 
-The following is a description of the interaction steps. ****&#x20;
+The following is a description of the interaction steps.&#x20;
 
 ![](https://lh4.googleusercontent.com/jqfTIzdr175wG-QVNwzNs4kz8VY7prz8-qKSIMDtGbDElOQuqeh4emBBeG8K1OZjI6ApLq6OIILrGcCQMqlsZkGdWyxQlz5QLOwnbD3mFaF\_waA9fH2F\_nIk\_TxVFCdJ6A)
 

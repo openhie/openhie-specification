@@ -17,12 +17,8 @@ The purpose of the specification release is to: &#x20;
 
 ## Specification Process&#x20;
 
-The process used to update the content was as follows: &#x20;
+See the [GitBook Version Change Control Process](readme/gitbook-version-change-control-process.md) for the OHIE Specification to better understand the process for which change requests go through.
 
-1. Sub-communities contributed additions and changes&#x20;
-2. The OpenHIE Architecture Review Board reviewed and approved the content&#x20;
-3. The updates were merged into the published version of the documentation.  &#x20;
-
-The process is expected to evolve in future years. See [How to Provide Input](how-to-provde-input.md) for directions on how to propose changes and make comments. &#x20;
+The process is expected to evolve in future years. See [How to Provide Input](readme/how-to-provde-input.md) for directions on how to propose changes and make comments. &#x20;
 
 <img src=".gitbook/assets/creative-commons (1).svg" alt="" data-size="line"> **This work is licensed under a Creative Commons Attribution 4.0 International License.**

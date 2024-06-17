@@ -23,4 +23,4 @@ The following is a description of the interaction steps.&#x20;
 | 1 | ValueSet expansion request  | <p>The expand request is triggered by a PoS or other HIE component.</p><p>Input: The target ValueSet.</p>                            | FHIR ValueSet Resource, $expand operation |
 | 2 | ValueSet expansion response | <p>The response is sent back to the requesting system.</p><p>Output: a ValueSet Resource containing the list of Concept members.</p> | FHIR ValueSet Resource, $expand operation |
 
-## ****
+##

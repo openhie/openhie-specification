@@ -23,4 +23,4 @@ The following is a description of the interaction steps.
 | 3 | Return patient record             | The response returns the patient(s) that matched the query criteria. It may consist of zero or more patient demographic records. | <p></p><ul><li><a href="https://wiki.ohie.org/display/documents/Patient+Demographics+Query+IHE+ITI-21+Transaction">PDQ ITI-21 transaction RSP-K22</a></li></ul><p>OR</p><ul><li>Query Patient Resource Response (<a href="https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2a.pdf">ITI TF-2</a>c:3.Y1.4.2): Bundle (Patient)</li></ul>    |
 | 4 | Return patient record             | The message from the CR is passed directly through to the PoS by the IL                                                          | <p></p><ul><li><a href="https://wiki.ohie.org/display/documents/Patient+Demographics+Query+IHE+ITI-21+Transaction">PDQ ITI-21 transaction RSP-K22</a></li></ul><p>OR</p><ul><li>Query Patient Resource Response (<a href="https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2a.pdf">ITI TF</a>-2c:3.Y1.4.2): Bundle (Patient)</li></ul>    |
 
-## ****
+##

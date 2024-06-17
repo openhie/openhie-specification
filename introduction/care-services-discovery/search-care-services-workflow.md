@@ -18,4 +18,4 @@ The following is a description of the interaction steps.
 | 1     | Search for matching care services | HTTP GET Request with optional query parameters.  Can be for any supported resources.                   | \[ITI-90] Find Matching Care Services |
 | 2     | Return matching care services     | HTTP response with FHIR Bundle of matching resources or an error if an invalid request or server error. | \[ITI-90] Find Matching Care Services |
 
-## ****
+##

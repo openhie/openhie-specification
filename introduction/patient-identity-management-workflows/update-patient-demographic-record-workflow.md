@@ -23,4 +23,4 @@ The following is a description of the interaction steps.&#x20;
 | 3     | Acknowledge patient updated | The response message is an HL7 ACK. See ITI TF-2x: C.2.3, "Acknowledgment Modes" for definition and discussion of the ACK message.                                                                                            | PIF ITI-8 transactions HL7 ACK [Patient Identity Feed IHE ITI-8 Transactions](https://wiki.ohie.org/display/documents/Patient+Identity+Feed+IHE+ITI-8+Transactions)                        |
 | 4     | Acknowledge patient updated | The message from the CR is passed directly through to the PoS by the IL.                                                                                                                                                      | PIF ITI-8 transactions HL7 ACK [Patient Identity Feed IHE ITI-8 Transactions](https://wiki.ohie.org/display/documents/Patient+Identity+Feed+IHE+ITI-8+Transactions)                        |
 
-## ****
+##

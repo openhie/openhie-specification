@@ -37,7 +37,7 @@ Business Domain Services are Health Exchange components that are designed to sup
 
 Registry Services are Health Exchange Components that are designed to support registries with data that is used by other Health Exchange components. &#x20;
 
-1. A [**Terminology Service**](https://wiki.ohie.org/display/SUB/Terminology+Service+Community) **** serves as a central authority to uniquely identify the clinical activities that occur within the care delivery process by maintaining a terminology set mapped to international standards such as ICD-10, LOINC, SNOMED, and others – “What?” See also:[What constitutes an OpenHIE Terminology Service?](https://wiki.ohie.org/pages/viewpage.action?pageId=30149397)\
+1. A [**Terminology Service**](https://wiki.ohie.org/display/SUB/Terminology+Service+Community) serves as a central authority to uniquely identify the clinical activities that occur within the care delivery process by maintaining a terminology set mapped to international standards such as ICD-10, LOINC, SNOMED, and others – “What?” See also:[What constitutes an OpenHIE Terminology Service?](https://wiki.ohie.org/pages/viewpage.action?pageId=30149397)\
 
 2. An enterprise master patient index (EMPI), or [**Client Registry**](https://wiki.ohie.org/display/SUB/Patient+Identity+Management+Community) manages the unique identity of citizens receiving health services with the country – “For whom".  See also: [What constitutes an OpenHIE CR?](https://wiki.ohie.org/pages/viewpage.action?pageId=29593103)\
 

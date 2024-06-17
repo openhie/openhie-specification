@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Specification Overview](README.md)
-* [How to use the Specification](get-started.md)
+  * [GitBook Version Change Control Process](readme/gitbook-version-change-control-process.md)
+  * [How to use the Specification](readme/get-started.md)
+  * [Version Change Log](readme/change-log-and-versioning.md)
+  * [How to Provide Feedback and Input](readme/how-to-provde-input.md)
 * [Architecture Specification](architecture-specification/README.md)
   * [Architecture](architecture-specification/overview-of-the-architecture.md)
   * [Architectural Principles](architecture-specification/architectural-principles.md)
@@ -58,5 +61,3 @@
     * [HFW-003: Check Coverage Eligibility](introduction/openhie-finance-and-insurance-services-workflows/hfw-003-check-coverage-eligibility.md)
     * [HFW-004: Claiming](introduction/openhie-finance-and-insurance-services-workflows/hfw-004-claiming.md)
     * [HFW-005: Claim Tracking](introduction/openhie-finance-and-insurance-services-workflows/hfw-005-claim-tracking.md)
-* [How to Provide Feedback and Input](how-to-provde-input.md)
-* [Change Log and Versioning](change-log-and-versioning.md)

@@ -19,16 +19,25 @@ A Terminology Service exposes a set of run-time functions (services) that suppor
 
 To be an OHIE TS component, the TS application must be able to support the OHIE workflows listed below.  Implementations may support only the workflows needed to support their use case. All of the required functions below are to be implemented using the associated HL7 FHIR Terminology Service specifications, e.g. Resources and Operations. These workflows also conform to the IHE Infrastructure Technical Framework Supplement - Sharing Value Sets, Codes, and Maps (SVCM) specification.
 
-| #                                                                                            | **TS Workflows (Described in detail in the later part of this document)**                        | **Recommendation/ Requirement** |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------- |
-| ****[**TSWF-1**](../introduction/terminology-service-workflow/verify-code-existence.md)****  | [Verify Code Existence](../introduction/terminology-service-workflow/verify-code-existence.md)   | Requirement                     |
-| ****[**TSWF-2**](../introduction/terminology-service-workflow/verify-code-membership.md)**** | [Verify Code Membership](../introduction/terminology-service-workflow/verify-code-membership.md) | Requirement                     |
-| ****[**TSWF-3**](../introduction/terminology-service-workflow/expand-value-set.md)****       | [Expand Value Set](../introduction/terminology-service-workflow/expand-value-set.md)             | Requirement                     |
-| ****[**TSWF-4**](../introduction/terminology-service-workflow/query-concept-maps.md)****     | [Query Concept Map](../introduction/terminology-service-workflow/query-concept-maps.md)          | Requirement                     |
-| ****[**TSWF-5**](../introduction/terminology-service-workflow/query-code-systems.md)****     | [Query Code System](../introduction/terminology-service-workflow/query-code-systems.md)          | Requirement                     |
-| ****[**TSWF-6**](../introduction/terminology-service-workflow/query-value-set.md)****        | [Query Value Set](../introduction/terminology-service-workflow/query-value-set.md)               | Requirement                     |
-| ****[**TSWF-7**](../introduction/terminology-service-workflow/lookup-code.md)****            | [Lookup Code](../introduction/terminology-service-workflow/lookup-code.md)                       | Requirement                     |
-| ****[**TSWF-8**](../introduction/terminology-service-workflow/translate-code.md)****         | [Translate Code](../introduction/terminology-service-workflow/translate-code.md)                 | Requirement                     |
+| #                                                                                    | **TS Workflows (Described in detail in the later part of this document)**                        | **Recommendation/ Requirement** |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------- |
+| [**TSWF-1**](../introduction/terminology-service-workflow/verify-code-existence.md)  | [Verify Code Existence](../introduction/terminology-service-workflow/verify-code-existence.md)   | Requirement                     |
+| [**TSWF-2**](../introduction/terminology-service-workflow/verify-code-membership.md) | [Verify Code Membership](../introduction/terminology-service-workflow/verify-code-membership.md) | Requirement                     |
+| [**TSWF-3**](../introduction/terminology-service-workflow/expand-value-set.md)       | [Expand Value Set](../introduction/terminology-service-workflow/expand-value-set.md)             | Requirement                     |
+| [**TSWF-4**](../introduction/terminology-service-workflow/query-concept-maps.md)     | [Query Concept Map](../introduction/terminology-service-workflow/query-concept-maps.md)          | Requirement                     |
+| [**TSWF-5**](../introduction/terminology-service-workflow/query-code-systems.md)     | [Query Code System](../introduction/terminology-service-workflow/query-code-systems.md)          | Requirement                     |
+| [**TSWF-6**](../introduction/terminology-service-workflow/query-value-set.md)        | [Query Value Set](../introduction/terminology-service-workflow/query-value-set.md)               | Requirement                     |
+| [**TSWF-7**](../introduction/terminology-service-workflow/lookup-code.md)            | [Lookup Code](../introduction/terminology-service-workflow/lookup-code.md)                       | Requirement                     |
+| [**TSWF-8**](../introduction/terminology-service-workflow/translate-code.md)         | [Translate Code](../introduction/terminology-service-workflow/translate-code.md)                 | Requirement                     |
+
+For additional details on FHIR data exchanges use the links below:\
+
+
+HL7 FHIR Terminology Service Specification
+
+* R4B: [https://hl7.org/fhir/R4B/terminology-service.html](https://hl7.org/fhir/R4B/terminology-service.html)
+* R5: [https://hl7.org/fhir/R5/terminology-service.html](https://hl7.org/fhir/R5/terminology-service.html)
+* R6: [https://hl7.org/fhir/6.0.0-ballot1/terminology-service.html](https://hl7.org/fhir/6.0.0-ballot1/terminology-service.html)
 
 ## OpenHIE TS Functional Requirements&#x20;
 

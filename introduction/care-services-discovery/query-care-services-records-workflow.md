@@ -29,4 +29,4 @@ The following is a description of the interaction steps.
 | 10    | Return matching care services from IL to PoS                                      | HTTP response with FHIR Bundle of matching resources or an error if an invalid request or server error. | \[ITI-90] Find Matching Care Services Response   |
 | 11    | If PoS doesn’t have access return error                                           | Return invalid access error.                                                                            |                                                  |
 
-## ****
+##

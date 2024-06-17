@@ -5,9 +5,9 @@ The send alert workflow allows the infrastructure services to register alerts wi
 An alert is intended as a largely one way communication to a client of the system. Use cases for alerts include:
 
 1. **Crisis Response**\
-   ****In response to a crisis or emergency situation, such as the 2014 and 2015 outbreaks of Ebola in western Africa, it is critical to communicate to clients within a particular health care network and to verify, to the extent possible, the receipt of the alert.
+   In response to a crisis or emergency situation, such as the 2014 and 2015 outbreaks of Ebola in western Africa, it is critical to communicate to clients within a particular health care network and to verify, to the extent possible, the receipt of the alert.
 2. **Care Reminders**\
-   ****A subject of care may receive care from multiple providers across multiple health care networks, and coordination of care across providers and networks is difficult. If an Electronic Medical Record or Longitudinal/Shared Health Record is present, Care Reminder alerts can be triggered through the examination of clinical records about the subject of care. Care Reminder alerts are sent either to the subject of care.
+   A subject of care may receive care from multiple providers across multiple health care networks, and coordination of care across providers and networks is difficult. If an Electronic Medical Record or Longitudinal/Shared Health Record is present, Care Reminder alerts can be triggered through the examination of clinical records about the subject of care. Care Reminder alerts are sent either to the subject of care.
 
 Though the infrastructure of the alerting workflow indicated below would permit communication of many types of additional messages, alerts, or notifications,  it is not intended that these messages exceed the above use cases.  In particular, these do not include "Critical Findings" or other types of alerts which require immediate action.
 

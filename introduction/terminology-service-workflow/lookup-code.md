@@ -1,6 +1,6 @@
 # Lookup Code
 
-This transaction allows a PoS, or any OHIE component, to access terminological **** information in the terminology service to retrieve detailed information on a code.  A typical example would be to retrieve descriptive information on a laboratory code from the LOINC Code System.&#x20;
+This transaction allows a PoS, or any OHIE component, to access terminological information in the terminology service to retrieve detailed information on a code.  A typical example would be to retrieve descriptive information on a laboratory code from the LOINC Code System.&#x20;
 
 Both external systems and systems inside the HIE may perform this transaction directly with the TS. The sequence diagram below shows the steps that occur for a system using this transaction.  &#x20;
 

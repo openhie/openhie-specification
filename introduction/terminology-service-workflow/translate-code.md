@@ -1,6 +1,6 @@
 # Translate Code
 
-&#x20;**** This transaction allows a PoS, or any OHIE component, to access terminological information in the terminology service and retrieve the translation, or "mapping" of a Concept in one Code System to a Concept in another Code System. Mapping is frequently required when patient data is collected using Concepts/Codes from one Code System but the data must be reported or aggregated, say for decision support, in a different Code System. The set of such associated Concepts, usually for a specific use-case, are stored in the Terminology Service in a FHIR Resource called a ConceptMap.
+&#x20;This transaction allows a PoS, or any OHIE component, to access terminological information in the terminology service and retrieve the translation, or "mapping" of a Concept in one Code System to a Concept in another Code System. Mapping is frequently required when patient data is collected using Concepts/Codes from one Code System but the data must be reported or aggregated, say for decision support, in a different Code System. The set of such associated Concepts, usually for a specific use-case, are stored in the Terminology Service in a FHIR Resource called a ConceptMap.
 
 Both external systems and systems inside the HIE may perform this transaction directly with the TS.  The sequence diagram below shows the steps that occur for a system using this transaction.
 
@@ -23,4 +23,4 @@ The following is a description of the interaction steps.&#x20;
 | 1 | ConceptMap translate request  | <p>The translate request is triggered by a PoS or other HIE component.</p><p>Input: The ConceptMap name and source Code and CodeSystem.</p>                                | FHIR ConceptMap Resource, $translate operation |
 | 2 | ConceptMap translate response | <p>The response is sent back to the requesting system.</p><p>Output: a set of parameters including a Boolean 'result, and a list of, possibly qualified, Code matches.</p> | FHIR ConceptMap Resource, $translate operation |
 
-## ****
+##
