@@ -8,6 +8,7 @@
 * added a [Gitbook version change control process page](gitbook-version-change-control-process.md)&#x20;
 * added approved changes to functional requirements for [Health Worker Registry](../openhie-component-specifications-1/openhie-health-worker-registry-hwr.md#openhie-hwr-workflow-requirements)
 * added links for Terminology Services HL7 FHIR reference tools
+* updated non-functional requirements to include column "Notes for system evaluation" & rows # 8 - 12&#x20;
 
 ## Version 5.0 (July 2022)
 
