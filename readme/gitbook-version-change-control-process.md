@@ -1,7 +1,8 @@
 ---
 description: >-
-  The GitBook Version Change Control Process for the OHIE Specification to
-  better understand the process for which change requests go through.
+  This is the GitBook Version Change Control Process for the OpenHIE
+  Specification. It's designed to better understand the process for which change
+  requests go through.
 ---
 
 # GitBook Version Change Control Process
