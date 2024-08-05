@@ -10,12 +10,23 @@ See also [Non-Functional Requirements](non-functional-requirements.md).
 
 A [core principle of the OpenHIE architecture](https://wiki.ohie.org/display/resources/Architectural+Principals) is to allow the various infrastructure services (such as the SHR) to be interchangeable. To support this, the [OpenHIE Standards and Profiles](https://wiki.ohie.org/display/documents/OpenHIE+Standards+and+Profiles) used by the Shared Health Record are outlined in the workflows below.
 
-To be an OHIE SHR component, the SHR application must be able to support the OHIE workflows listed below. Implementations may support only the workflows needed to support their use case:
+To be an OHIE SHR component, the SHR application must be able to support the OHIE workflows listed below. Implementations may support only the workflows needed to support their use case.
+
+There are two separate options for implementing these workflows. There is a document-based option which was part of the original OpenHIE specification and a newer, more modern and simpler native FHIR version of the workflows. An implementation may choose which workflow set to implement.
+
+### Document-based workflows
 
 | **#**                                                                                                             | **SHR Workflows (Described in detail in the later part of this document)**                                                       | **Recommendation/ Requirement** |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| \*\*\*\*[**SHRWF-1**](../introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)\*\*\*\*  | [Save patient-level clinical data workflow](../introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)   | Requirement                     |
-| \*\*\*\*[**SHRWF-2**](../introduction/shared-health-record/query-patient-level-clinical-data-workflow.md)\*\*\*\* | [Query patient-level clinical data workflow](../introduction/shared-health-record/query-patient-level-clinical-data-workflow.md) | Requirement                     |
+| \*\*\*\*[**SHRWF-1**](../introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)\*\*\*\*  | [Save patient-level clinical data workflow - document-based](../introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)   | Requirement                     |
+| \*\*\*\*[**SHRWF-2**](../introduction/shared-health-record/query-patient-level-clinical-data-workflow.md)\*\*\*\* | [Query patient-level clinical data workflow - document-based](../introduction/shared-health-record/query-patient-level-clinical-data-workflow.md) | Requirement                     |
+
+### Native FHIR-based workflows (Recommended)
+
+| **#**                                                                                                             | **SHR Workflows (Described in detail in the later part of this document)**                                                       | **Recommendation/ Requirement** |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| \*\*\*\*[**SHRWF-1**](../introduction/shared-health-record/save-patient-level-clinical-data-workflow.md)\*\*\*\*  | [Save patient-level clinical data workflow - FHIR native](../introduction/shared-health-record/save-patient-level-clinical-data-workflow-fhir.md)   | Requirement                     |
+| \*\*\*\*[**SHRWF-2**](../introduction/shared-health-record/query-patient-level-clinical-data-workflow.md)\*\*\*\* | [Query patient-level clinical data workflow - FHIR native](../introduction/shared-health-record/query-patient-level-clinical-data-workflow-fhir.md) | Requirement                     |
 
 ## **OpenHIE SHR Functional Requirements**
 

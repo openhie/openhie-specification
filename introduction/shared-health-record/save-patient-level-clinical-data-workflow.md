@@ -1,4 +1,6 @@
-# Save Patient-level Clinical Data Workflow
+# Save Patient-level Clinical Data Workflow (Document-based)
+
+Also see [FHIR native version of this workflow](./save-patient-level-clinical-data-workflow-fhir.md).
 
 This transaction allows a point of service (PoS) system to save patient-level clinical data to the SHR. The transaction is verified and validated against the other registries before it is saved in the SHR. The following sequence diagram shows the steps involved.
 
