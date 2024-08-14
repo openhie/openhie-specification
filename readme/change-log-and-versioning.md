@@ -1,5 +1,11 @@
 # Version Change Log
 
+## Version 5.2 (August 2024)
+
+### Additions
+
+* added in FIS functional requirements&#x20;
+
 ## Version 5.1 (June 2024)
 
 ### Additions
